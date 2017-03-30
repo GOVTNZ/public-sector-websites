@@ -8,7 +8,7 @@ To suggest an amendment or update to the list, please raise a pull request or em
 
 ### Latest public sector website data
 
-See [public-sector-domains](public-sector-websites.csv)
+See [public-sector-websites](public-sector-websites.csv)
 
 ### License
 CC BY 4.0
