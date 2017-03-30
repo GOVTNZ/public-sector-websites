@@ -14,9 +14,9 @@ Accident Compensation Corporation,safetyweek.co.nz,Crown Entity - Crown Agent
 Accident Compensation Corporation,wellsaid.co.nz,Crown Entity - Crown Agent
 Accident Compensation Corporation,worksmarttips.co.nz,Crown Entity - Crown Agent
 AgResearch Limited,agresearch.co.nz,Crown entity company
-Airways Corporation of New Zealand Limited,airways.co.nz,State Owned Enterprise
-Antarctica New Zealand,antarcticanz.govt.nz,Crown Entity - Crown Agent
-Antarctica New Zealand,ipy.antarcticanz.govt.nz,Crown Entity - Crown Agent
+Airways,airways.co.nz,State Owned Enterprise
+Antarctica New Zealand,antarcticanz.govt.nz,Crown Entity - Institute
+Antarctica New Zealand,ipy.antarcticanz.govt.nz,Crown Entity - Institute
 Asia New Zealand Foundation,asianz.org.nz,Public Finance Act Fourth Schedule Organisation
 Auckland District Health Board,adhb.govt.nz,District Health Board
 Auckland District Health Board,arphs.govt.nz,District Health Board
@@ -79,11 +79,11 @@ Department of Internal Affairs,communitymatters.govt.nz,Public Service departmen
 Department of Internal Affairs,complaints.antispam.govt.nz,Public Service department
 Department of Internal Affairs,cop.aotearoapeoplesnetwork.org,Public Service department
 Department of Internal Affairs,data.govt.nz,Public Service department
+Department of Internal Affairs,dcregistry.natlib.govt.nz,Public Service department
 Department of Internal Affairs,dia.govt.nz,Public Service department
 Department of Internal Affairs,digitalnz.org.nz,Public Service department
 Department of Internal Affairs,dns.govt.nz,Public Service department
 Department of Internal Affairs,dogsafety.govt.nz,Public Service department
-Department of Internal Affairs,dcregistry.natlib.govt.nz,Public Service department
 Department of Internal Affairs,ecasttv.co.nz,Public Service department
 Department of Internal Affairs,education.citizenship.govt.nz,Public Service department
 Department of Internal Affairs,epic.org.nz,Public Service department
@@ -153,13 +153,13 @@ Energy Efficiency and Conservation Authority,enduse.eeca.govt.nz,Crown Entity - 
 Energy Efficiency and Conservation Authority,energywise.govt.nz,Crown Entity - Crown Agent
 Environmental Protection Authority,epa.govt.nz,Crown Entity - Crown Agent
 External Reporting Board,xrb.govt.nz,Independent Crown Entity
-Families Commission,familiescommission.org.nz,Autonomous Crown Entity
 Financial Markets Authority,financialadvisercode.govt.nz,Independent Crown Entity
 Financial Markets Authority,fma.govt.nz,Independent Crown Entity
 Genesis Power Limited,genesisenergy.co.nz,Mixed Ownership Model company
 Government Communications Security Bureau,gcsb.govt.nz,Public Service department
 Government Communications Security Bureau,ncsc.govt.nz,Public Service department
 Government Superannuation Fund,gsfa.govt.nz,Autonomous Crown Entity
+Guardians of New Zealand Superannuation,nzsuperfund.co.nz,Autonomous Crown Entity
 Hawke's Bay District Health Board,hawkesbay.health.nz,District Health Board
 Health Alliance,echo.waitematadhb.govt.nz,District Health Board
 Health Alliance,refugeehealth.govt.nz,District Health Board
@@ -167,13 +167,13 @@ Health Alliance,waitematadhb.govt.nz,District Health Board
 Health and Disability Commissioner,hdc.org.nz,Independent Crown Entity
 Health Benefits Limited,hbl.co.nz,Crown Entity - Crown Agent
 Health Promotion Agency,alcohol.org.nz,Crown Entity - Crown Agent
-Health Promotion Agency,easeuponthedrink.org.nz,Crown Entity - Crown Agent
-Health Promotion Agency,likeadrink.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,alcohol.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,depression.org.nz,Crown Entity - Crown Agent
+Health Promotion Agency,easeuponthedrink.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,healthed.govt.nz,Crown Entity - Crown Agent
 Health Promotion Agency,hpa.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,kuraauahikore.org.nz,Crown Entity - Crown Agent
+Health Promotion Agency,likeadrink.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,likeminds.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,quit.org.nz,Crown Entity - Crown Agent
 Health Promotion Agency,smokefree.org.nz,Crown Entity - Crown Agent
@@ -220,6 +220,7 @@ Landcare Research,landcareresearch.co.nz,Crown entity company
 Landcare Research,nzflora.landcareresearch.co.nz,Crown entity company
 Landcare Research,soils.landcareresearch.co.nz,Crown entity company
 Landcare Research ,floraseries.landcareresearch.co.nz,Crown entity company
+Landcorp Farming Limited,landcorp.co.nz,State Owned Enterprise
 Law Commission,lawcom.govt.nz,Independent Crown Entity
 Leadership Development Centre,ldc.govt.nz,Public Finance Act Fourth Schedule Organisation
 Learning Media Limited,learningmedia.co.nz,State Owned Enterprise
@@ -265,7 +266,7 @@ Ministry for the Environment,qualityplanning.org.nz,Public Service department
 "Ministry of Business, Innovation and Employment",consumerbuild.org.nz,Public Service department
 "Ministry of Business, Innovation and Employment",dbh.govt.nz,Public Service department
 "Ministry of Business, Innovation and Employment",diagnostictool.dol.govt.nz,Public Service department
-"Ministry of Business, Innovation and Employment","directory.foodandbeverage.govt.nz",Public Service department
+"Ministry of Business, Innovation and Employment",directory.foodandbeverage.govt.nz,Public Service department
 "Ministry of Business, Innovation and Employment",dol.govt.nz,Public Service department
 "Ministry of Business, Innovation and Employment",era.govt.nz,Public Service department
 "Ministry of Business, Innovation and Employment",ewrb.govt.nz,Public Service department
@@ -377,6 +378,7 @@ Ministry of Social Development,areyouok.org.nz,Public Service department
 Ministry of Social Development,contractmapping.govt.nz,Public Service department
 Ministry of Social Development,cyf.govt.nz,Public Service department
 Ministry of Social Development,employers.workandincome.govt.nz,Public Service department
+Ministry of Social Development,familiescommission.org.nz,Public Service department
 Ministry of Social Development,familyservices.govt.nz,Public Service department
 Ministry of Social Development,hcn.govt.nz,Public Service department
 Ministry of Social Development,heartlandservices.govt.nz,Public Service department
@@ -415,6 +417,7 @@ New Zealand Customs Service,tsw.govt.nz,Non-Public Service department
 New Zealand Customs Service,whatsmyduty.org.nz,Non-Public Service department
 New Zealand Defence Force,airforce.mil.nz,Non-Public Service department
 New Zealand Defence Force,airforcemuseum.co.nz,Non-Public Service department
+New Zealand Defence Force,army.mil.nz,Non-Public Service department
 New Zealand Defence Force,armymuseum.co.nz,Non-Public Service department
 New Zealand Defence Force,cadetforces.mil.nz,Non-Public Service department
 New Zealand Defence Force,defencecareers.mil.nz,Non-Public Service department
@@ -485,6 +488,7 @@ Office of the Auditor General,auditnz.govt.nz,Offices of Parliament
 Office of the Auditor General,oag.govt.nz,Offices of Parliament
 Office of the Clerk of the House of Representatives,explore.parliament.nz,Non-Public Service department
 Office of the Clerk of the House of Representatives,parliament.nz,Non-Public Service department
+Office of the Ombudsman ,ombudsmen.parliament.nz,Offices of Parliament
 Office of the Ombudsmen,ombudsmen.govt.nz,Offices of Parliament
 Pacific Co-operation Foundation,pcf.org.nz,Public Finance Act Fourth Schedule Organisation
 Pacific Island Business Development Trust,pacificbusiness.co.nz,Public Finance Act Fourth Schedule Organisation
@@ -494,6 +498,7 @@ Parliamentary Service,beehive.govt.nz,Non-Public Service department
 Parliamentary Service,pco.parliament.govt.nz,Non-Public Service department
 Parliamentary Service,poli.govt.nz,Non-Public Service department
 Pharmaceutical Management Agency Ltd,pharmac.govt.nz,Crown Entity - Crown Agent
+Pharmaceutical Management Agency Ltd,pharmac.health.nz,Crown Entity - Crown Agent
 Privacy Commissioner,privacy.org.nz,Independent Crown Entity
 Public Trust,publictrust.co.nz,Autonomous Crown Entity
 Quotable Value Limited,qv.co.nz,State Owned Enterprise
