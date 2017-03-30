@@ -6,6 +6,12 @@ The Department of Internal Affairs compiled these lists to the best of its knowl
 
 To suggest an amendment or update to the list, please raise a pull request or email [info@data.govt.nz](mailto:info@data.govt.nz).
 
+### Latest website domain data
+
+See [public-sector-domains](public-sector-domains.csv)
+
+
+
 ### License
 CC BY 4.0
 
