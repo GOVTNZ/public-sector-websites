@@ -1,5 +1,10 @@
-[
-  {
+{
+  "@context": "https://raw.githubusercontent.com/data-govt-nz/schema/master/schema.jsonld",
+	"@id": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/data.json",
+	"@type": "dcat:Catalog",
+	"conformsTo": "https://github.com/data-govt-nz/schema",
+  "dataset":
+    [{
 			"@type": "dcat:Dataset",
 			"title": "New Zealand Public Sector Websites",
 			"landingPage": "https://github.com/GOVTNZ/domains",
@@ -20,6 +25,33 @@
 				"fn": "Venon McCarthy",
 				"hasEmail": "moderator@dia.govt.nz?subject=Enquiry from data.govt.nz"
 			},
-			"distribution": []
-	}
-]
+			"distribution": [
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2011-08-26/public-sector-domains.csv",
+          "title": "Snapshot at 26 August 2011",
+          "format": "csv"
+        },
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2014-10-01/public-sector-domains.csv",
+          "title": "Snapshot at 01 October 2014",
+          "format": "csv"
+        },
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2014-11-03/public-sector-domains.csv",
+          "title": "Snapshot at 03 November 2014",
+          "format": "csv"
+        },
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2015-04-01/public-sector-domains.csv",
+          "title": "Snapshot at 01 April 2015",
+          "format": "csv"
+        },
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2017-03-15/public-sector-domains.csv",
+          "title": "Snapshot at 15 March 2017",
+          "description": "Note: this year now includes local and regional council websites.",
+          "format": "csv"
+        }
+      ]
+  }]
+}
