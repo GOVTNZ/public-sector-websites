@@ -57,8 +57,7 @@
           "title": "Latest dataset updates",
           "description": "This give access to the running updates on the public sector websites dataset",
           "format": "csv"
-        },
-				
+        }				
       ]
   }]
 }
