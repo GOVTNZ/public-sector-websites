@@ -49,9 +49,16 @@
         {
           "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2017-03-15/public-sector-domains.csv",
           "title": "Snapshot at 15 March 2017",
-          "description": "Note: this year now includes local and regional council websites.",
+          "description": "Note: this year now includes local and regional council websites and whether a domain is redirecting to another website.",
           "format": "csv"
-        }
+        },
+	{
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
+          "title": "Latest dataset updates",
+          "description": "This give access to the running updates on the public sector websites dataset",
+          "format": "csv"
+        },
+				
       ]
   }]
 }
