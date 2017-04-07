@@ -1,865 +1,857 @@
 organisation,url,redirects,sector
-Accident Compensation Corporation,acc.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,accfleets.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,businessdescription.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,drinksmart.co.nz,No,Crown Entity - Crown Agent
+Accident Compensation Corporation,acc.co.nz,No,Public Service department
+Accident Compensation Corporation,acc.govt.nz,Yes,Non-Public Service department
+Accident Compensation Corporation,accfleets.co.nz,Yes,Public Service department
+Accident Compensation Corporation,businessdescription.co.nz,No,Public Service department
+Accident Compensation Corporation,drinksmart.co.nz,Yes,Public Service department
 Accident Compensation Corporation,findsupport.co.nz,No,Crown Entity - Crown Agent
+Accident Compensation Corporation,fleetsafety.govt.nz,Yes,Crown Entity - Crown Agent
 Accident Compensation Corporation,habitatwork.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,homesafety.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,msac.org.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,myinjuryforecast.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,rideforever.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,safetyweek.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,wellsaid.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,worksmarttips.co.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,acc.govt.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,fleetsafety.govt.nz,No,Crown Entity - Crown Agent
-Accident Compensation Corporation,acc.govt.nz,Yes,Crown Entity - Crown Agent
-AgResearch Limited,agresearch.co.nz,No,Crown entity company
-Airways Corporation of New Zealand Limited,airways.co.nz,No,State Owned Enterprise
-Antarctica New Zealand,antarcticanz.govt.nz,No,Crown Entity - Institute
-Ashburton District Council,ashburtondc.govt.nz,No,District Council
-Asia New Zealand Foundation,asianz.org.nz,No,Public Finance Act Fourth Schedule Organisation
-Auckland Council ,akcity.govt.nz,No,City Council
-Auckland Council ,aucklandcouncil.govt.nz,No,City Council
-Auckland Council ,aucklandlibraries.govt.nz,No,City Council
-Auckland Council ,aupihp.govt.nz,No,City Council
-Auckland Council ,franklin.govt.nz,No,City Council
-Auckland Council ,manukau.govt.nz,No,City Council
-Auckland Council ,manukau-libraries.govt.nz,No,City Council
-Auckland Council ,papakuralibrary.govt.nz,No,City Council
-Auckland Council ,rodney.govt.nz,No,City Council
-Auckland Council ,shorelibraries.govt.nz,No,City Council
-Auckland Council ,theaucklandplan.govt.nz,No,City Council
-Auckland Council ,waitakere.govt.nz,No,City Council
-Auckland Council ,arc.govt.nz,Yes,City Council
-Auckland Transport,at.govt.nz,No,City Council
-Auckland Transport,aucklandtransport.govt.nz,Yes,City Council
-Australia New Zealand Food Authority,foodstandards.gov.au,No,Other
+Accident Compensation Corporation,homesafety.co.nz,No,District Health Board
+Accident Compensation Corporation,msac.org.nz,No,Public Finance Act Fourth Schedule Organisation
+Accident Compensation Corporation,myinjuryforecast.co.nz,No,Crown entity company
+Accident Compensation Corporation,rideforever.co.nz,Yes,Public Service department
+Accident Compensation Corporation,safetyweek.co.nz,No,Non-Public Service department
+Accident Compensation Corporation,wellsaid.co.nz,No,Non-Public Service department
+Accident Compensation Corporation,worksmarttips.co.nz,No,State Owned Enterprise
+AgResearch Limited,agresearch.co.nz,No,City Council
+Airways Corporation of New Zealand Limited,airways.co.nz,No,District Health Board
+Antarctica New Zealand,antarcticanz.govt.nz,Yes,Crown Entity - Crown Agent
+Ashburton District Council,ashburtondc.govt.nz,No,Crown Entity - Crown Agent
+Asia New Zealand Foundation,asianz.org.nz,No,Public Service department
+Auckland Council ,akcity.govt.nz,No,Crown Entity - Institute
+Auckland Council ,arc.govt.nz,Yes,Public Service department
+Auckland Council ,aucklandcouncil.govt.nz,No,Public Service department
+Auckland Council ,aucklandlibraries.govt.nz,No,Public Service department
+Auckland Council ,aupihp.govt.nz,No,Public Service department
+Auckland Council ,franklin.govt.nz,No,Public Service department
+Auckland Council ,manukau-libraries.govt.nz,No,Public Service department
+Auckland Council ,manukau.govt.nz,No,Independent Crown Entity
+Auckland Council ,papakuralibrary.govt.nz,Yes,Public Service department
+Auckland Council ,rodney.govt.nz,Yes,City Council
+Auckland Council ,shorelibraries.govt.nz,No,Public Service department
+Auckland Council ,theaucklandplan.govt.nz,No,Public Service department
+Auckland Council ,waitakere.govt.nz,No,Non-Public Service department
+Auckland Transport,at.govt.nz,No,District Health Board
+Auckland Transport,aucklandtransport.govt.nz,No,District Council
+Australia New Zealand Food Authority,foodstandards.gov.au,No,Public Service department
 Bay of Plenty District Health Board,bopdhb.govt.nz,No,District Health Board
-Bay of Plenty District Health Board,toiteorapublichealth.govt.nz,No,District Health Board
-Bay of Plenty District Health Board,ttophs.govt.nz,No,District Health Board
-Bay of Plenty District Health Board,workwell.health.nz,No,District Health Board
-Bay of Plenty Regional Council,bopcivildefence.govt.nz,No,Regional Council
-Bay of Plenty Regional Council,boplass.govt.nz,No,Regional Council
-Bay of Plenty Regional Council,boprc.govt.nz,No,Regional Council
-Bay of Plenty Regional Council,kaweraudc.govt.nz,No,Regional Council
-Bay of Plenty Regional Council,odc.govt.nz,No,Regional Council
-Broadcasting Commission,kiwihits.co.nz,No,Autonomous Crown Entity
-Broadcasting Standards Authority,bsa.govt.nz,No,Independent Crown Entity
-Buller District Council,bullerdc.govt.nz,No,District Council
-Callaghan Innovation,callaghaninnovation.govt.nz,No,Crown Entity - Crown Agent
-Callaghan Innovation,sftichallenge.govt.nz,No,Crown Entity - Crown Agent
-Callaghan Innovation,www.measurement.govt.nz,No,Crown Entity - Crown Agent
-Callaghan Innovation,irl.cri.nz,Yes,Crown Entity - Crown Agent
-Callaghan Innovation,msl.irl.cri.nz,Yes,Crown Entity - Crown Agent
-Canterbury District Health Board,cdhb.govt.nz,No,District Health Board
-Canterbury District Health Board,cdhb.health.nz,No,District Health Board
-Canterbury District Health Board,cdhbcareers.co.nz,No,District Health Board
-Canterbury District Health Board,labnet.health.nz,No,District Health Board
-Canterbury Museum Trust Board,cantmus.govt.nz,No,Other
-Canterbury Museum Trust Board,canterburymuseum.com,No,Other
+Bay of Plenty District Health Board,toiteorapublichealth.govt.nz,No,Public Finance Act Fourth Schedule Organisation
+Bay of Plenty District Health Board,ttophs.govt.nz,No,City Council
+Bay of Plenty District Health Board,workwell.health.nz,No,Public Service department
+Bay of Plenty Regional Council,bopcivildefence.govt.nz,Yes,Crown Entity - Crown Agent
+Bay of Plenty Regional Council,boplass.govt.nz,No,City Council
+Bay of Plenty Regional Council,boprc.govt.nz,No,District Health Board
+Bay of Plenty Regional Council,kaweraudc.govt.nz,No,City Council
+Bay of Plenty Regional Council,odc.govt.nz,No,Crown Entity - Crown Agent
+Broadcasting Commission,kiwihits.co.nz,Yes,City Council
+Broadcasting Standards Authority,bsa.govt.nz,No,Autonomous Crown Entity
+Buller District Council,bullerdc.govt.nz,No,Offices of Parliament
+Callaghan Innovation,callaghaninnovation.govt.nz,No,Offices of Parliament
+Callaghan Innovation,irl.cri.nz,No,City Council
+Callaghan Innovation,msl.irl.cri.nz,Yes,Public Service department
+Callaghan Innovation,sftichallenge.govt.nz,No,Public Service department
+Callaghan Innovation,www.measurement.govt.nz,Yes,Public Service department
+Canterbury District Health Board,cdhb.govt.nz,Yes,City Council
+Canterbury District Health Board,cdhb.health.nz,No,Crown Entity - Crown Agent
+Canterbury District Health Board,cdhbcareers.co.nz,No,Public Service department
+Canterbury District Health Board,labnet.health.nz,No,Public Service department
+Canterbury Museum Trust Board,canterburymuseum.com,No,Public Service department
+Canterbury Museum Trust Board,cantmus.govt.nz,No,Regional Council
 Capital & Coast District Health Board,ccdhb.org.nz,No,District Health Board
-Careers New Zealand,careers.govt.nz,No,Crown Entity - Crown Agent
-Careers New Zealand,careersnz.govt.nz,Yes,Crown Entity - Crown Agent
-Careers New Zealand,kiwicareers.govt.nz,Yes,Crown Entity - Crown Agent
-Carterton District Council ,cdc.govt.nz,No,District Council
-Carterton District Council ,wairarapasfuture.govt.nz,No,District Council
-Central Hawkes Bay District Council,chbdc.govt.nz,No,District Council
-Central Otago District Council ,codc.govt.nz,No,District Council
-Chatham Islands Council,cic.govt.nz,No,District Council
-Christchurch City Council,ccc.govt.nz,No,City Council
-Christchurch City Council,strongerchristchurch.govt.nz,No,City Council
-Christchurch City Council,tfc.govt.nz,No,City Council
-Civil Aviation Authority ,nss.govt.nz,No,Crown Entity - Crown Agent
-Clutha District Council ,cluthadc.govt.nz,No,District Council
-Commerce Commission,comcom.govt.nz,No,Independent Crown Entity
-Commission for Financial Literacy and Retirement Income,sorted.org.nz,No,Autonomous Crown Entity
-Commission for Financial Literacy and Retirement Income,retirement.govt.nz,Yes,Autonomous Crown Entity
-Controller and Auditor-General,auditor-general.parliament.nz,No,Offices of Parliament
-Creative New Zealand ,creativenz.govt.nz,No,Autonomous Crown Entity
-Crown Fibre Holdings Limited,cfh.govt.nz,Yes,Public Finance Act Schedule 4A Company
-Crown Fibre Holdings Limited,crownfibre.govt.nz,No,Public Finance Act Schedule 4A Company
-Crown Law Office,crownlaw.govt.nz,No,Public Service department
-Crown Law Office,gln.govt.nz,No,Public Service department
-Department of Conservation,1080reassessment.govt.nz,No,Public Service department
-Department of Conservation,biodiversity.govt.nz,No,Public Service department
+Careers New Zealand,careers.govt.nz,No,Regional Council
+Careers New Zealand,careersnz.govt.nz,No,Regional Council
+Careers New Zealand,kiwicareers.govt.nz,Yes,Public Service department
+Carterton District Council ,cdc.govt.nz,Yes,Public Service department
+Carterton District Council ,wairarapasfuture.govt.nz,Yes,Public Service department
+Central Hawkes Bay District Council,chbdc.govt.nz,No,Independent Crown Entity
+Central Otago District Council ,codc.govt.nz,No,Public Service department
+Chatham Islands Council,cic.govt.nz,No,Public Service department
+Christchurch City Council,ccc.govt.nz,No,Public Service department
+Christchurch City Council,strongerchristchurch.govt.nz,No,Public Service department
+Christchurch City Council,tfc.govt.nz,Yes,Public Service department
+Civil Aviation Authority ,nss.govt.nz,No,District Council
+Clutha District Council ,cluthadc.govt.nz,No,Public Service department
+Commerce Commission,comcom.govt.nz,No,Public Service department
+Commission for Financial Literacy and Retirement Income,retirement.govt.nz,Yes,Public Service department
+Commission for Financial Literacy and Retirement Income,sorted.org.nz,No,Crown Entity - Crown Agent
+Controller and Auditor-General,auditor-general.parliament.nz,No,Non-Public Service department
+Creative New Zealand ,creativenz.govt.nz,No,Non-Public Service department
+Crown Fibre Holdings Limited,cfh.govt.nz,Yes,Public Service department
+Crown Fibre Holdings Limited,crownfibre.govt.nz,No,Crown Entity - Crown Agent
+Crown Law Office,crownlaw.govt.nz,Yes,Public Service department
+Crown Law Office,gln.govt.nz,No,Regional Council
+Department of Conservation,1080reassessment.govt.nz,No,Other
+Department of Conservation,biodiversity.govt.nz,No,Other
 Department of Conservation,conservation.govt.nz,No,Public Service department
-Department of Conservation,doc.govt.nz,No,Public Service department
+Department of Conservation,doc.govt.nz,No,Crown Entity - Crown Agent
+Department of Conservation,greatwalks.co.nz,Yes,Crown Entity - Crown Agent
 Department of Conservation,lahar.govt.nz,No,Public Service department
-Department of Conservation,nhf.govt.nz,No,Public Service department
-Department of Conservation,greatwalks.co.nz,No,Public Service department
-Department of Conservation,westmarine.org.nz,No,Public Service department
-Department of Corrections,corrections.govt.nz,No,Public Service department
-Department of Corrections,paroleboard.govt.nz,No,Public Service department
-Department of Internal Affairs,anyquestions.co.nz,No,Public Service department
-Department of Internal Affairs,aotearoapeoplesnetwork.org,No,Public Service department
-Department of Internal Affairs,cartoons.org.nz,No,Public Service department
-Department of Internal Affairs,community.net.nz,No,Public Service department
-Department of Internal Affairs,digitalnz.org,No,Public Service department
-Department of Internal Affairs,epic.org.nz,No,Public Service department
-Department of Internal Affairs,manyanswers.co.nz,No,Public Service department
-Department of Internal Affairs,mixandmash.org.nz,No,Public Service department
-Department of Internal Affairs,nzresearch.org.nz,No,Public Service department
-Department of Internal Affairs,peoplesnetwork.wordpress.com,No,Public Service department
-Department of Internal Affairs,thecommunityarchive.org.nz,No,Public Service department
-Department of Internal Affairs,anyquestions.govt.nz,No,Public Service department
-Department of Internal Affairs,archives.govt.nz,No,Public Service department
-Department of Internal Affairs,ata.govt.nz,No,Public Service department
-Department of Internal Affairs,beehive.govt.nz,No,Public Service department
+Department of Conservation,nhf.govt.nz,Yes,Public Service department
+Department of Conservation,westmarine.org.nz,No,City Council
+Department of Corrections,corrections.govt.nz,No,District Health Board
+Department of Corrections,paroleboard.govt.nz,Yes,Public Service department
+Department of Internal Affairs,7726.govt.nz,Yes,Public Service department
+Department of Internal Affairs,antispam.govt.nz,No,District Council
+Department of Internal Affairs,anyquestions.co.nz,No,Regional Council
+Department of Internal Affairs,anyquestions.govt.nz,Yes,District Council
+Department of Internal Affairs,aotearoapeoplesnetwork.org,No,Regional Council
+Department of Internal Affairs,archives.govt.nz,No,Regional Council
+Department of Internal Affairs,ata.govt.nz,Yes,Public Service department
+Department of Internal Affairs,bdm.govt.nz,No,District Health Board
+Department of Internal Affairs,beehive.govt.nz,No,District Health Board
+Department of Internal Affairs,beta.govt.nz,No,District Health Board
+Department of Internal Affairs,cadetreview.govt.nz,No,Independent Crown Entity
+Department of Internal Affairs,cartoons.org.nz,Yes,Independent Crown Entity
+Department of Internal Affairs,cdgo.govt.nz,No,Public Service department
 Department of Internal Affairs,cerc.govt.nz,No,Public Service department
 Department of Internal Affairs,charities.govt.nz,No,Public Service department
+Department of Internal Affairs,chchappeal.govt.nz,No,Crown Entity - Crown Agent
+Department of Internal Affairs,christchurchappealtrust.govt.nz,Yes,Public Service department
+Department of Internal Affairs,christchurchearthquakeappeal.govt.nz,Yes,Public Finance Act Schedule 4A Company
+Department of Internal Affairs,cipc.govt.nz,No,Autonomous Crown Entity
 Department of Internal Affairs,citizenship.govt.nz,No,Public Service department
+Department of Internal Affairs,community.net.nz,No,District Council
+Department of Internal Affairs,communityandvoluntary.govt.nz,Yes,Public Service department
 Department of Internal Affairs,communitymatters.govt.nz,No,Public Service department
-Department of Internal Affairs,cwp.govt.nz,No,Public Service department
-Department of Internal Affairs,data.govt.nz,No,Public Service department
-Department of Internal Affairs,dia.govt.nz,No,Public Service department
-Department of Internal Affairs,dns.govt.nz,No,Public Service department
+Department of Internal Affairs,communityoutcomes.govt.nz,Yes,Public Service department
+Department of Internal Affairs,confidentialforum.govt.nz,No,Crown Entity - Crown Agent
+Department of Internal Affairs,cwp.govt.nz,No,Crown Entity - Crown Agent
+Department of Internal Affairs,data.govt.nz,Yes,Public Service department
+Department of Internal Affairs,dia.govt.nz,Yes,Public Service department
+Department of Internal Affairs,digitalnz.org,No,District Council
+Department of Internal Affairs,dns.govt.nz,Yes,Public Service department
 Department of Internal Affairs,dogsafety.govt.nz,No,Public Service department
-Department of Internal Affairs,ethniccommunities.govt.nz,No,Public Service department
-Department of Internal Affairs,gamblingcommission.govt.nz,No,Public Service department
-Department of Internal Affairs,gazette.govt.nz,No,Public Service department
-Department of Internal Affairs,govtechtalent.co.nz,No,Public Service department
-Department of Internal Affairs,ict.govt.nz,No,Public Service department
-Department of Internal Affairs,identityservices.govt.nz,No,Public Service department
-Department of Internal Affairs,jobs.govt.nz,No,Public Service department
+Department of Internal Affairs,ems.govt.nz,No,Public Service department
+Department of Internal Affairs,epic.org.nz,No,Independent Crown Entity
+Department of Internal Affairs,ethnicaffairs.govt.nz,Yes,Public Service department
+Department of Internal Affairs,ethniccommunities.govt.nz,No,District Council
+Department of Internal Affairs,executive.govt.nz,No,State Owned Enterprise
+Department of Internal Affairs,gamblingcom.govt.nz,No,City Council
+Department of Internal Affairs,gamblingcommission.govt.nz,No,District Council
+Department of Internal Affairs,gazette.govt.nz,No,District Council
+Department of Internal Affairs,goodpracticefunding.govt.nz,No,Independent Crown Entity
+Department of Internal Affairs,goodpracticeparticipate.govt.nz,No,Public Service department
+Department of Internal Affairs,govtechtalent.co.nz,Yes,Public Service department
+Department of Internal Affairs,ict.govt.nz,Yes,Public Service department
+Department of Internal Affairs,identity.govt.nz,No,Public Service department
+Department of Internal Affairs,identityservices.govt.nz,Yes,Public Service department
+Department of Internal Affairs,internalaffairs.govt.nz,Yes,Public Service department
+Department of Internal Affairs,ipv6.govt.nz,No,Public Service department
+Department of Internal Affairs,jobs.govt.nz,Yes,Public Service department
+Department of Internal Affairs,languageline.govt.nz,Yes,Public Service department
 Department of Internal Affairs,lgc.govt.nz,No,Public Service department
 Department of Internal Affairs,listening.govt.nz,No,Public Service department
+Department of Internal Affairs,localcentral.govt.nz,Yes,Public Service department
+Department of Internal Affairs,localcouncil.govt.nz,No,Public Service department
 Department of Internal Affairs,localcouncils.govt.nz,No,Public Service department
-Department of Internal Affairs,natlib.govt.nz,No,Public Service department
-Department of Internal Affairs,passports.govt.nz,No,Public Service department
-Department of Internal Affairs,psi.govt.nz,No,Public Service department
-Department of Internal Affairs,realme.govt.nz,No,Public Service department
+Department of Internal Affairs,manyanswers.co.nz,No,Non-Public Service department
+Department of Internal Affairs,mixandmash.org.nz,No,Public Service department
+Department of Internal Affairs,natlib.govt.nz,Yes,District Council
+Department of Internal Affairs,newzealand.govt.nz,No,Public Service department
+Department of Internal Affairs,nzresearch.org.nz,Yes,Public Service department
+Department of Internal Affairs,ocvs.govt.nz,No,Public Service department
+Department of Internal Affairs,passports.govt.nz,Yes,Crown Entity - Crown Agent
+Department of Internal Affairs,peoplesnetwork.wordpress.com,No,Regional Council
+Department of Internal Affairs,psd.govt.nz,No,Autonomous Crown Entity
+Department of Internal Affairs,psi.govt.nz,Yes,Public Service department
+Department of Internal Affairs,quakeappeal.govt.nz,Yes,Non-Public Service department
+Department of Internal Affairs,ratesinquiry.govt.nz,No,Public Finance Act Schedule 4A Company
+Department of Internal Affairs,ratesrebates.govt.nz,No,Public Service department
+Department of Internal Affairs,realme.govt.nz,Yes,Public Service department
+Department of Internal Affairs,royalcommission.govt.nz,No,Public Service department
+Department of Internal Affairs,rulesreduction.govt.nz,No,Non-Public Service department
 Department of Internal Affairs,see.govt.nz,No,Public Service department
-Department of Internal Affairs,selfassess.govt.nz,No,Public Service department
-Department of Internal Affairs,stv.govt.nz,No,Public Service department
+Department of Internal Affairs,selfassess.govt.nz,Yes,Public Service department
+Department of Internal Affairs,spam.govt.nz,No,Public Service department
+Department of Internal Affairs,stv.govt.nz,Yes,Public Service department
+Department of Internal Affairs,thecommunityarchive.org.nz,No,Non-Public Service department
+Department of Internal Affairs,translate.govt.nz,No,Non-Public Service department
+Department of Internal Affairs,uiangapatai.govt.nz,No,Crown Entity - Crown Agent
+Department of Internal Affairs,vietnamvetswg.govt.nz,No,Non-Public Service department
 Department of Internal Affairs,webtoolkit.govt.nz,No,Public Service department
 Department of Internal Affairs,www.govt.nz,No,Public Service department
-Department of Internal Affairs,ipv6.govt.nz,No,Public Service department
-Department of Internal Affairs,7726.govt.nz,Yes,Public Service department
-Department of Internal Affairs,antispam.govt.nz,Yes,Public Service department
-Department of Internal Affairs,bdm.govt.nz,Yes,Public Service department
-Department of Internal Affairs,beta.govt.nz,Yes,Public Service department
-Department of Internal Affairs,cadetreview.govt.nz,Yes,Public Service department
-Department of Internal Affairs,cdgo.govt.nz,Yes,Public Service department
-Department of Internal Affairs,chchappeal.govt.nz,Yes,Public Service department
-Department of Internal Affairs,christchurchappealtrust.govt.nz,Yes,Public Service department
-Department of Internal Affairs,christchurchearthquakeappeal.govt.nz,Yes,Public Service department
-Department of Internal Affairs,cipc.govt.nz,Yes,Public Service department
-Department of Internal Affairs,communityandvoluntary.govt.nz,Yes,Public Service department
-Department of Internal Affairs,communityoutcomes.govt.nz,Yes,Public Service department
-Department of Internal Affairs,confidentialforum.govt.nz,Yes,Public Service department
-Department of Internal Affairs,ems.govt.nz,Yes,Public Service department
-Department of Internal Affairs,ethnicaffairs.govt.nz,Yes,Public Service department
-Department of Internal Affairs,gamblingcom.govt.nz,Yes,Public Service department
-Department of Internal Affairs,goodpracticefunding.govt.nz,Yes,Public Service department
-Department of Internal Affairs,goodpracticeparticipate.govt.nz,Yes,Public Service department
-Department of Internal Affairs,identity.govt.nz,Yes,Public Service department
-Department of Internal Affairs,internalaffairs.govt.nz,Yes,Public Service department
-Department of Internal Affairs,languageline.govt.nz,Yes,Public Service department
-Department of Internal Affairs,localcentral.govt.nz,Yes,Public Service department
-Department of Internal Affairs,localcouncil.govt.nz,Yes,Public Service department
-Department of Internal Affairs,newzealand.govt.nz,Yes,Public Service department
-Department of Internal Affairs,ocvs.govt.nz,Yes,Public Service department
-Department of Internal Affairs,psd.govt.nz,Yes,Public Service department
-Department of Internal Affairs,quakeappeal.govt.nz,Yes,Public Service department
-Department of Internal Affairs,ratesinquiry.govt.nz,Yes,Public Service department
-Department of Internal Affairs,ratesrebates.govt.nz,Yes,Public Service department
-Department of Internal Affairs,royalcommission.govt.nz,Yes,Public Service department
-Department of Internal Affairs,rulesreduction.govt.nz,Yes,Public Service department
-Department of Internal Affairs,spam.govt.nz,Yes,Public Service department
-Department of Internal Affairs,translate.govt.nz,Yes,Public Service department
-Department of Internal Affairs,uiangapatai.govt.nz,Yes,Public Service department
-Department of Internal Affairs,vietnamvetswg.govt.nz,Yes,Public Service department
-Department of Internal Affairs,executive.govt.nz,Yes,Public Service department
-Drug Free Sport New Zealand,drugfreesport.org.nz,No,Independent Crown Entity
-Dunedin City Council ,bigcities.govt.nz,Yes,City Council
-Dunedin City Council ,dunedin.govt.nz,No,City Council
-Dunedin City Council ,dunedinlibraries.govt.nz,No,City Council
-Dunedin City Council ,qualityoflifeproject.govt.nz,No,City Council
-Earthquake Commission,eqc.govt.nz,No,Crown Entity - Crown Agent
-Earthquake Commission,geonet.org.nz,No,Crown Entity - Crown Agent
-Education Council,educationcouncil.org.nz,No,Autonomous Crown Entity
-Education Council,teacherscouncil.govt.nz,Yes,Autonomous Crown Entity
-Education New Zealand,newzealandeducated.com,No,Crown Entity - Crown Agent
-Education New Zealand,studyinnewzealand.com,No,Crown Entity - Crown Agent
+Drug Free Sport New Zealand,drugfreesport.org.nz,No,Public Service department
+Dunedin City Council ,bigcities.govt.nz,No,Public Service department
+Dunedin City Council ,dunedin.govt.nz,No,Public Service department
+Dunedin City Council ,dunedinlibraries.govt.nz,Yes,Public Service department
+Dunedin City Council ,qualityoflifeproject.govt.nz,No,Public Service department
+Earthquake Commission,eqc.govt.nz,No,Public Service department
+Earthquake Commission,geonet.org.nz,Yes,Public Service department
+Education Council,educationcouncil.org.nz,No,Public Service department
+Education Council,teacherscouncil.govt.nz,No,Crown Entity - Crown Agent
 Education New Zealand,enz.govt.nz,No,Crown Entity - Crown Agent
-Education New Zealand,studyinnewzealand.govt.nz,No,Crown Entity - Crown Agent
-Education Review Office ,ero.govt.nz,No,Public Service department
-Electoral Commission,elections.org.nz,No,Independent Crown Entity
-Electoral Commission,ivotenz.org.nz,No,Independent Crown Entity
-Electoral Commission,electionresults.govt.nz,No,Independent Crown Entity
-Electoral Commission,elections.govt.nz,No,Independent Crown Entity
-Electoral Commission,election.govt.nz,Yes,Independent Crown Entity
-Electoral Commission,electionsnz.govt.nz,Yes,Independent Crown Entity
-Electoral Commission,electorate.govt.nz,Yes,Independent Crown Entity
-Electoral Commission,ivotenz.govt.nz,Yes,Independent Crown Entity
-Electoral Commission,mmpreview.govt.nz,Yes,Independent Crown Entity
-Electricity Authority,aperforum.org,No,Independent Crown Entity
+Education New Zealand,newzealandeducated.com,No,Independent Crown Entity
+Education New Zealand,studyinnewzealand.com,No,Public Service department
+Education New Zealand,studyinnewzealand.govt.nz,No,City Council
+Education Review Office ,ero.govt.nz,No,City Council
+Electoral Commission,election.govt.nz,No,Independent Crown Entity
+Electoral Commission,electionresults.govt.nz,No,Crown Entity - Crown Agent
+Electoral Commission,elections.govt.nz,No,Regional Council
+Electoral Commission,elections.org.nz,No,Public Service department
+Electoral Commission,electionsnz.govt.nz,No,Public Service department
+Electoral Commission,electorate.govt.nz,No,Autonomous Crown Entity
+Electoral Commission,ivotenz.govt.nz,No,Public Service department
+Electoral Commission,ivotenz.org.nz,Yes,Public Service department
+Electoral Commission,mmpreview.govt.nz,No,Crown Entity - Crown Agent
+Electricity Authority,aperforum.org,No,Crown Entity - Crown Agent
+Electricity Authority,ea.govt.nz,Yes,Independent Crown Entity
 Electricity Authority,whatsmynumber.org.nz,No,Independent Crown Entity
-Electricity Authority,ea.govt.nz,No,Independent Crown Entity
-Energy Efficiency and Conservation Authority ,eecabusiness.govt.nz,No,Crown Entity - Crown Agent
-Energy Efficiency and Conservation Authority ,eeca.govt.nz,No,Crown Entity - Crown Agent
-Energy Efficiency and Conservation Authority ,electricvehicles.govt.nz,No,Crown Entity - Crown Agent
-Energy Efficiency and Conservation Authority ,energywise.govt.nz,No,Crown Entity - Crown Agent
+Energy Efficiency and Conservation Authority ,eeca.govt.nz,No,Independent Crown Entity
+Energy Efficiency and Conservation Authority ,eecabusiness.govt.nz,No,Independent Crown Entity
+Energy Efficiency and Conservation Authority ,electricvehicles.govt.nz,Yes,Independent Crown Entity
+Energy Efficiency and Conservation Authority ,energyspot.govt.nz,Yes,Public Service department
+Energy Efficiency and Conservation Authority ,energywise.govt.nz,Yes,Independent Crown Entity
 Energy Efficiency and Conservation Authority ,nabersnz.govt.nz,No,Crown Entity - Crown Agent
-Energy Efficiency and Conservation Authority ,energyspot.govt.nz,Yes,Crown Entity - Crown Agent
-Environment Canterbury Regional Council,canterburymaps.govt.nz,No,Regional Council
-Environment Canterbury Regional Council,cdemcanterbury.govt.nz,No,Regional Council
-Environment Canterbury Regional Council,crc.govt.nz,No,Regional Council
-Environment Canterbury Regional Council,ecan.govt.nz,No,Regional Council
-Environmental Protection Authority,emissionsregister.govt.nz,No,Crown Entity - Crown Agent
-Environmental Protection Authority,epa.govt.nz,No,Crown Entity - Crown Agent
-External Reporting Board ,xrb.govt.nz,No,Independent Crown Entity
-Families Commission,superu.govt.nz,No,Autonomous Crown Entity
-Far North District Council,fndc.govt.nz,No,District Council
-Far North District Council,fndcmaps.govt.nz,Yes,District Council
-Financial Markets Authority ,fadc.govt.nz,No,Independent Crown Entity
-Financial Markets Authority ,financialadvisercode.govt.nz,No,Independent Crown Entity
-Financial Markets Authority ,fma.govt.nz,No,Independent Crown Entity
-Financial Markets Authority ,investwisely.govt.nz,No,Independent Crown Entity
-Financial Markets Authority ,sec-com.govt.nz,Yes,Independent Crown Entity
-Financial Markets Authority ,seccom.govt.nz,Yes,Independent Crown Entity
-Genesis Power Limited,genesisenergy.co.nz,No,Mixed Ownership Model company
-Gisborne District Council ,gdc.govt.nz,No,District Council
-Gisborne District Council ,gpl.govt.nz,No,District Council
-Gisborne District Council ,cdemgisborne.govt.nz,Yes,District Council
-Gisborne District Council ,gisborneemergency.govt.nz,Yes,District Council
-Gore District Council,goredc.govt.nz,No,District Council
-Gore District Council,gorelibraries.govt.nz,No,District Council
+Environment Canterbury Regional Council,canterburymaps.govt.nz,No,Public Service department
+Environment Canterbury Regional Council,cdemcanterbury.govt.nz,No,Crown Entity - Crown Agent
+Environment Canterbury Regional Council,crc.govt.nz,No,Public Service department
+Environment Canterbury Regional Council,ecan.govt.nz,No,Public Service department
+Environmental Protection Authority,emissionsregister.govt.nz,Yes,Public Service department
+Environmental Protection Authority,epa.govt.nz,No,Public Service department
+External Reporting Board ,xrb.govt.nz,Yes,Crown Entity - Crown Agent
+Families Commission,superu.govt.nz,No,Crown Entity - Crown Agent
+Far North District Council,fndc.govt.nz,No,Regional Council
+Far North District Council,fndcmaps.govt.nz,No,Public Service department
+Financial Markets Authority ,fadc.govt.nz,No,Public Service department
+Financial Markets Authority ,financialadvisercode.govt.nz,No,Regional Council
+Financial Markets Authority ,fma.govt.nz,No,Crown Entity - Crown Agent
+Financial Markets Authority ,investwisely.govt.nz,No,Crown Entity - Crown Agent
+Financial Markets Authority ,sec-com.govt.nz,No,Public Service department
+Financial Markets Authority ,seccom.govt.nz,No,Crown Entity - Crown Agent
+Genesis Power Limited,genesisenergy.co.nz,No,Public Service department
+Gisborne District Council ,cdemgisborne.govt.nz,No,Public Service department
+Gisborne District Council ,gdc.govt.nz,No,Regional Council
+Gisborne District Council ,gisborneemergency.govt.nz,Yes,Public Service department
+Gisborne District Council ,gpl.govt.nz,Yes,Public Service department
+Gore District Council,goredc.govt.nz,No,Public Service department
+Gore District Council,gorelibraries.govt.nz,Yes,Regional Council
 Government Communications Security Bureau ,gcsb.govt.nz,No,Public Service department
 Government Communications Security Bureau ,ncsc.govt.nz,No,Public Service department
-Government Communications Security Bureau ,nzic.govt.nz,No,Public Service department
-Greater Wellington Regional Council ,gpiwellingtonregion.govt.nz,No,Regional Council
-Greater Wellington Regional Council ,gw.govt.nz,No,Regional Council
-Greater Wellington Regional Council ,letscarpool.govt.nz,No,Regional Council
-Greater Wellington Regional Council ,wrs.govt.nz,Yes,Regional Council
-Grey District Council ,greydc.govt.nz,No,District Council
-Hamilton City Council,hamilton.govt.nz,No,City Council
-Hamilton City Council,www.hamiltonlibraries.co.nz,No,City Council
-Hamilton City Council,hcc.govt.nz,Yes,City Council
-Hamilton City Council,hpl.govt.nz,Yes,City Council
-Hastings District Council ,hastingsdc.govt.nz,No,District Council
-Hauraki District Council,hauraki-dc.govt.nz,No,District Council
-Hawke's Bay District Health Board,hawkesbay.health.nz,No,District Health Board
-Hawkes Bay Regional Council ,cdemhawkesbay.govt.nz,No,Regional Council
-Hawkes Bay Regional Council ,hawkesbayemergency.govt.nz,No,Regional Council
-Hawkes Bay Regional Council ,hbemergency.govt.nz,No,Regional Council
-Hawkes Bay Regional Council ,hbrc.govt.nz,No,Regional Council
-Health Alliance,adhb.govt.nz,No,District Health Board
-Health Alliance,akpublichealth.govt.nz,No,District Health Board
-Health Alliance,arphs.govt.nz,No,District Health Board
-Health Alliance,asianhealth.govt.nz,No,District Health Board
-Health Alliance,aucklandhealthcareers.govt.nz,No,District Health Board
-Health Alliance,refugeehealth.govt.nz,No,District Health Board
-Health Alliance,waitematadhb.govt.nz,No,District Health Board
-Health and Disability Commissioner,hdc.org.nz,No,Independent Crown Entity
-Health Benefits Limited,hbl.co.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,alcohol.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,depression.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,healthed.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,hpa.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,likeadrink.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,likeminds.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,quit.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,smokefree.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,stopbeforeyoustart.co.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,sunsmart.org.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,thelowdown.co.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,cervicalcancervaccine.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,eatmovelive.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,fluoridefacts.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,healthed.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,healthyfamilies.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,nutritionandactivity.govt.nz,No,Crown Entity - Crown Agent
-Health Promotion Agency,choicenotchance.org.nz/#slider=0,No,Crown Entity - Crown Agent
-Health Promotion Agency,alac.org.nz,Yes,Crown Entity - Crown Agent
-Health Promotion Agency,kuraauahikore.org.nz,Yes,Crown Entity - Crown Agent
+Government Communications Security Bureau ,nzic.govt.nz,Yes,Public Service department
+Greater Wellington Regional Council ,gpiwellingtonregion.govt.nz,No,Independent Crown Entity
+Greater Wellington Regional Council ,gw.govt.nz,No,Public Service department
+Greater Wellington Regional Council ,letscarpool.govt.nz,Yes,Crown Entity - Crown Agent
+Greater Wellington Regional Council ,wrs.govt.nz,No,Independent Crown Entity
+Grey District Council ,greydc.govt.nz,No,Crown Entity - Crown Agent
+Hamilton City Council,hamilton.govt.nz,Yes,Public Service department
+Hamilton City Council,hcc.govt.nz,No,Crown Entity - Crown Agent
+Hamilton City Council,hpl.govt.nz,Yes,Public Service department
+Hamilton City Council,www.hamiltonlibraries.co.nz,Yes,Public Service department
+Hastings District Council ,hastingsdc.govt.nz,No,Public Finance Act Fourth Schedule Organisation
+Hauraki District Council,hauraki-dc.govt.nz,Yes,Public Service department
+Hawke's Bay District Health Board,hawkesbay.health.nz,No,Crown Entity - Crown Agent
+Hawkes Bay Regional Council ,cdemhawkesbay.govt.nz,No,Crown entity company
+Hawkes Bay Regional Council ,hawkesbayemergency.govt.nz,No,Crown Entity - Crown Agent
+Hawkes Bay Regional Council ,hbemergency.govt.nz,No,Independent Crown Entity
+Hawkes Bay Regional Council ,hbrc.govt.nz,No,District Council
+Health Alliance,adhb.govt.nz,Yes,District Council
+Health Alliance,akpublichealth.govt.nz,Yes,Public Service department
+Health Alliance,arphs.govt.nz,Yes,Public Service department
+Health Alliance,asianhealth.govt.nz,No,Public Service department
+Health Alliance,aucklandhealthcareers.govt.nz,Yes,Public Service department
+Health Alliance,refugeehealth.govt.nz,No,Other
+Health Alliance,waitematadhb.govt.nz,No,Non-Public Service department
+Health and Disability Commissioner,hdc.org.nz,No,City Council
+Health Benefits Limited,hbl.co.nz,Yes,Public Service department
+Health Promotion Agency,alac.org.nz,No,Public Service department
+Health Promotion Agency,alcohol.org.nz,Yes,Public Service department
 Health Promotion Agency,auahikore.org.nz,Yes,Crown Entity - Crown Agent
-Health Promotion Agency,notourfuture.co.nz,Yes,Crown Entity - Crown Agent
-Health Promotion Agency,problemgambling.org.nz,Yes,Crown Entity - Crown Agent
-Health Promotion Agency,smokefreeschools.org.nz,Yes,Crown Entity - Crown Agent
-Health Quality and Safety Commission,hqsc.govt.nz,No,Crown Entity - Crown Agent
-Health Research Council Of New Zealand,hrc.govt.nz,No,Crown Entity - Crown Agent
-High Performance Sport New Zealand,hpsnz.org.nz,No,Crown Entity - Crown Agent
-Horizons Regional Council,horizons.govt.nz,No,Regional Council
-Horizons Regional Council,kiawharite.govt.nz,No,Regional Council
-Horizons Regional Council,mwcdemg.govt.nz,Yes,Regional Council
-Horowhenua District Council,horowhenua.govt.nz,No,District Council
-Housing New Zealand Corporation,chranz.co.nz,No,Crown Entity - Crown Agent
-Housing New Zealand Corporation,hnzc.co.nz,No,Crown Entity - Crown Agent
-Housing New Zealand Corporation,hobsonvillepoint.co.nz,No,Crown Entity - Crown Agent
-Housing New Zealand Corporation,welcomehomeloan.co.nz,No,Crown Entity - Crown Agent
-Housing New Zealand Corporation,hnzc.govt.nz,Yes,Crown Entity - Crown Agent
-Human Rights Commission,hrc.co.nz,No,Independent Crown Entity
+Health Promotion Agency,cervicalcancervaccine.govt.nz,Yes,Crown Entity - Crown Agent
+Health Promotion Agency,choicenotchance.org.nz/#slider=0,No,Public Service department
+Health Promotion Agency,depression.org.nz,No,Crown Entity - Crown Agent
+Health Promotion Agency,eatmovelive.govt.nz,Yes,Public Service department
+Health Promotion Agency,fluoridefacts.govt.nz,No,Public Service department
+Health Promotion Agency,healthed.govt.nz,No,Public Service department
+Health Promotion Agency,healthyfamilies.govt.nz,No,Public Service department
+Health Promotion Agency,hpa.org.nz,No,District Council
+Health Promotion Agency,kuraauahikore.org.nz,No,Mixed Ownership Model company
+Health Promotion Agency,likeadrink.org.nz,No,Public Service department
+Health Promotion Agency,likeminds.org.nz,No,Public Service department
+Health Promotion Agency,notourfuture.co.nz,No,Crown Entity - Crown Agent
+Health Promotion Agency,nutritionandactivity.govt.nz,Yes,Public Service department
+Health Promotion Agency,problemgambling.org.nz,No,Public Service department
+Health Promotion Agency,quit.org.nz,No,Public Service department
+Health Promotion Agency,smokefree.org.nz,No,Public Service department
+Health Promotion Agency,smokefreeschools.org.nz,No,Public Service department
+Health Promotion Agency,stopbeforeyoustart.co.nz,Yes,District Council
+Health Promotion Agency,sunsmart.org.nz,Yes,Crown Entity - Crown Agent
+Health Promotion Agency,thelowdown.co.nz,No,Public Service department
+Health Quality and Safety Commission,hqsc.govt.nz,Yes,Public Service department
+Health Research Council Of New Zealand,hrc.govt.nz,Yes,Public Service department
+High Performance Sport New Zealand,hpsnz.org.nz,Yes,Public Service department
+Horizons Regional Council,horizons.govt.nz,No,District Council
+Horizons Regional Council,kiawharite.govt.nz,No,District Council
+Horizons Regional Council,mwcdemg.govt.nz,Yes,Public Service department
+Horowhenua District Council,horowhenua.govt.nz,No,Public Service department
+Housing New Zealand Corporation,chranz.co.nz,Yes,Public Service department
+Housing New Zealand Corporation,hnzc.co.nz,Yes,Public Service department
+Housing New Zealand Corporation,hnzc.govt.nz,No,Regional Council
+Housing New Zealand Corporation,hobsonvillepoint.co.nz,No,District Council
+Housing New Zealand Corporation,welcomehomeloan.co.nz,No,Public Service department
+Human Rights Commission,hrc.co.nz,No,Public Service department
 Hurunui District Council,hurunui.govt.nz,No,District Council
-Hurunui District Council,hurunuilibrary.govt.nz,No,District Council
-Hutt City Council ,huttcity.govt.nz,No,City Council
-Independent Police Conduct Authority ,ipca.govt.nz,No,Independent Crown Entity
-Inland Revenue Department,ird.govt.nz,No,Public Service department
-Inland Revenue Department,kiwisaver.govt.nz,No,Public Service department
-Inland Revenue Department,rewriteadvisory.govt.nz,No,Public Service department
-Inland Revenue Department,whatstax.govt.nz,No,Public Service department
-International Accreditation New Zealand ,ianz.govt.nz,No,Autonomous Crown Entity
-Invercargill City Council ,icc.govt.nz,No,City Council
-Invercargill City Council ,southlib.govt.nz,No,City Council
-Kaikoura District Council,kaikoura.govt.nz,No,District Council
-Kaipara District Council ,kaipara.govt.nz,No,District Council
-Kapiti Coast District Council,kapiticoast.govt.nz,No,District Council
-Kapiti Coast District Council,kapiticoastlibraries.govt.nz,No,District Council
-Kapiti Coast District Council,kcdc.govt.nz,No,District Council
-Kordia Group Limited,kordia.co.nz,No,State Owned Enterprise
-Lakes District Health Board,lakesdhb.govt.nz,No,District Health Board
-Lakes District Health Board,midlandshn.health.nz,No,District Health Board
-Land Information New Zealand ,geodata.govt.nz,No,Public Service department
-Land Information New Zealand ,linz.govt.nz,No,Public Service department
-Land Information New Zealand ,geospatial.govt.nz,Yes,Public Service department
-Land Information New Zealand ,landonline.govt.nz,Yes,Public Service department
-Landcare Research,landcareresearch.co.nz,No,Crown entity company
-Landcare Research,nzflora.landcareresearch.co.nz,No,Crown entity company
-Landcare Research,soils.landcareresearch.co.nz,No,Crown entity company
-Landcare Research ,floraseries.landcareresearch.co.nz,No,Crown entity company
-Law Commission,lawcom.govt.nz,No,Independent Crown Entity
-Leadership Development Centre,ldc.govt.nz,No,Trust
-MacKenzie District Council,mackenzie.govt.nz,No,District Council
-Manawatu District Council ,mdc.govt.nz,No,District Council
-Manawatu District Council ,manawatu.govt.nz,Yes,District Council
+Hurunui District Council,hurunuilibrary.govt.nz,No,Regional Council
+Hutt City Council ,huttcity.govt.nz,No,Public Service department
+Independent Police Conduct Authority ,ipca.govt.nz,No,Crown Entity - Crown Agent
+Inland Revenue Department,ird.govt.nz,No,City Council
+Inland Revenue Department,kiwisaver.govt.nz,No,District Council
+Inland Revenue Department,rewriteadvisory.govt.nz,No,District Council
+Inland Revenue Department,whatstax.govt.nz,No,District Health Board
+International Accreditation New Zealand ,ianz.govt.nz,No,Regional Council
+Invercargill City Council ,icc.govt.nz,No,Crown Entity - Crown Agent
+Invercargill City Council ,southlib.govt.nz,No,Regional Council
+Kaikoura District Council,kaikoura.govt.nz,No,Crown Entity - Crown Agent
+Kaipara District Council ,kaipara.govt.nz,No,Regional Council
+Kapiti Coast District Council,kapiticoast.govt.nz,Yes,City Council
+Kapiti Coast District Council,kapiticoastlibraries.govt.nz,No,Public Service department
+Kapiti Coast District Council,kcdc.govt.nz,No,Independent Crown Entity
+Kordia Group Limited,kordia.co.nz,No,Public Service department
+Lakes District Health Board,lakesdhb.govt.nz,No,Crown Entity - Crown Agent
+Lakes District Health Board,midlandshn.health.nz,No,Public Service department
+Land Information New Zealand ,geodata.govt.nz,Yes,Public Service department
+Land Information New Zealand ,geospatial.govt.nz,No,District Health Board
+Land Information New Zealand ,landonline.govt.nz,No,District Health Board
+Land Information New Zealand ,linz.govt.nz,Yes,Public Service department
+Landcare Research,landcareresearch.co.nz,No,Crown Entity - Crown Agent
+Landcare Research,nzflora.landcareresearch.co.nz,No,Public Service department
+Landcare Research,soils.landcareresearch.co.nz,Yes,Public Service department
+Landcare Research ,floraseries.landcareresearch.co.nz,Yes,Crown Entity - Crown Agent
+Law Commission,lawcom.govt.nz,No,Public Service department
+Leadership Development Centre,ldc.govt.nz,No,Public Service department
+MacKenzie District Council,mackenzie.govt.nz,No,Public Service department
+Manawatu District Council ,manawatu.govt.nz,No,Crown Entity - Crown Agent
+Manawatu District Council ,mdc.govt.nz,Yes,Crown Entity - Crown Agent
 Maritime New Zealand ,maritimenz.govt.nz,No,Crown Entity - Crown Agent
-Marlborough District Council,marlborough.govt.nz,No,District Council
-Marlborough District Council,marlboroughlibraries.govt.nz,No,District Council
-Masterton District Council,mstn.govt.nz,No,District Council
+Marlborough District Council,marlborough.govt.nz,No,Non-Public Service department
+Marlborough District Council,marlboroughlibraries.govt.nz,No,Crown Entity - Crown Agent
+Masterton District Council,mstn.govt.nz,No,Regional Council
 Matamata-Piako District Council ,mpdc.govt.nz,No,District Council
-Meridian Energy Limited,meridianenergy.co.nz,No,Mixed Ownership Model company
-MidCentral District Health Board,midcentraldhb.govt.nz,No,District Health Board
-Midwifery Council of New Zealand,midwiferycouncil.health.nz,No,Regulatory Authority
-Mighty River Power Limited,mightyriver.co.nz,No,Mixed Ownership Model company
-Ministry for Culture and Heritage,28maoribattalion.org.nz,No,Public Service department
-Ministry for Culture and Heritage,mch.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,quakestories.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,anzac.govt.nz,No,Public Service department
+Meridian Energy Limited,meridianenergy.co.nz,No,Crown Entity - Crown Agent
+MidCentral District Health Board,midcentraldhb.govt.nz,Yes,City Council
+Midwifery Council of New Zealand,midwiferycouncil.health.nz,No,Crown Entity - Crown Agent
+Mighty River Power Limited,mightyriver.co.nz,No,Crown Entity - Crown Agent
+Ministry for Culture and Heritage,28maoribattalion.org.nz,No,Independent Crown Entity
+Ministry for Culture and Heritage,anzac.govt.nz,No,Crown Entity - Crown Agent
+Ministry for Culture and Heritage,dnzb.govt.nz,No,Public Service department
+Ministry for Culture and Heritage,firstworldwar.govt.nz,No,Non-Public Service department
+Ministry for Culture and Heritage,goingdigital.co.nz,No,District Council
+Ministry for Culture and Heritage,heritageequip.govt.nz,No,District Council
+Ministry for Culture and Heritage,mch.govt.nz,No,City Council
 Ministry for Culture and Heritage,ngatapuwae.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,nzhistory.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,teara.govt.nz,No,Public Service department
+Ministry for Culture and Heritage,nzhistory.govt.nz,No,Autonomous Crown Entity
+Ministry for Culture and Heritage,protected-objects.govt.nz,No,City Council
+Ministry for Culture and Heritage,quakestories.govt.nz,No,Public Service department
+Ministry for Culture and Heritage,teara.govt.nz,Yes,Public Service department
 Ministry for Culture and Heritage,tiritiowaitangi.govt.nz,No,Public Service department
+Ministry for Culture and Heritage,treatyofwaitangi.govt.nz,No,Public Service department
 Ministry for Culture and Heritage,vietnamwar.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,ww100.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,goingdigital.co.nz,Yes,Public Service department
-Ministry for Culture and Heritage,dnzb.govt.nz,Yes,Public Service department
-Ministry for Culture and Heritage,firstworldwar.govt.nz,Yes,Public Service department
-Ministry for Culture and Heritage,heritageequip.govt.nz,Yes,Public Service department
-Ministry for Culture and Heritage,protected-objects.govt.nz,Yes,Public Service department
-Ministry for Culture and Heritage,treatyofwaitangi.govt.nz,Yes,Public Service department
+Ministry for Culture and Heritage,ww100.govt.nz,Yes,Crown Entity - Crown Agent
 Ministry for Pacific Peoples ,mpia.govt.nz,No,Public Service department
-Ministry for Pacific Peoples ,mpp.govt.nz,No,Public Service department
-Ministry for Primary Industries,gia.org.nz,No,Public Service department
-Ministry for Primary Industries,biosecurity.govt.nz,No,Public Service department
-Ministry for Primary Industries,fs.fish.govt.nz/Page.aspx?pk=91,No,Public Service department
+Ministry for Pacific Peoples ,mpp.govt.nz,Yes,Public Service department
+Ministry for Primary Industries,aquaculture.govt.nz,No,Public Service department
+Ministry for Primary Industries,biosecurity.govt.nz,No,Crown Entity - Crown Agent
+Ministry for Primary Industries,fish.govt.nz,No,Public Service department
+Ministry for Primary Industries,foodprotection.govt.nz,No,Public Service department
 Ministry for Primary Industries,foodsafety.govt.nz,No,Public Service department
-Ministry for Primary Industries,mpi.govt.nz,No,Public Service department
-Ministry for Primary Industries,aquaculture.govt.nz,Yes,Public Service department
-Ministry for Primary Industries,fish.govt.nz,Yes,Public Service department
-Ministry for Primary Industries,foodprotection.govt.nz,Yes,Public Service department
 Ministry for Primary Industries,foodsmart.govt.nz,Yes,Public Service department
-Ministry for Primary Industries,maf.govt.nz,Yes,Public Service department
-Ministry for Primary Industries,nzfsa.govt.nz,Yes,Public Service department
-Ministry for the Environment,greeningthescreen.co.nz,No,Public Service department
-Ministry for the Environment,qualityplanning.org.nz,No,Public Service department
+Ministry for Primary Industries,fs.fish.govt.nz/Page.aspx?pk=91,Yes,Public Service department
+Ministry for Primary Industries,gia.org.nz,Yes,Crown Entity - Crown Agent
+Ministry for Primary Industries,maf.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry for Primary Industries,mpi.govt.nz,No,Independent Crown Entity
+Ministry for Primary Industries,nzfsa.govt.nz,No,Independent Crown Entity
+Ministry for the Environment,climatechange.govt.nz,No,Public Service department
 Ministry for the Environment,environment.govt.nz,No,Public Service department
-Ministry for the Environment,mfe.govt.nz,No,Public Service department
+Ministry for the Environment,greeningthescreen.co.nz,No,Public Service department
+Ministry for the Environment,mfe.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry for the Environment,qualityplanning.org.nz,Yes,Non-Public Service department
 Ministry for the Environment,rma.govt.nz,No,Public Service department
-Ministry for the Environment,wastelevy.govt.nz,No,Public Service department
-Ministry for the Environment,waterefficiency.govt.nz,No,Public Service department
-Ministry for the Environment,climatechange.govt.nz,Yes,Public Service department
-Ministry for the Environment,tvtakeback.govt.nz,Yes,Public Service department
+Ministry for the Environment,tvtakeback.govt.nz,Yes,Independent Crown Entity
+Ministry for the Environment,wastelevy.govt.nz,No,Independent Crown Entity
+Ministry for the Environment,waterefficiency.govt.nz,No,Non-Public Service department
 Ministry for Vulnerable Children Oranga Tamariki,www.mvcot.govt.nz,No,Public Service department
-Ministry for Women ,women.govt.nz,No,Public Service department
-Ministry for Women ,mwa.govt.nz,Yes,Public Service department
-Ministry for Women ,nacew.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",buildingvalue.co.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",consumerbuild.org.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",opportunitycanterbury.org.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",powerswitch.org.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",ppsr.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",smarterhomes.org.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",volunteernet.org.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",building.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",business.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",business-migrants.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",companiesoffice.govt.nz,No,Public Service department
+Ministry for Women ,mwa.govt.nz,No,Public Service department
+Ministry for Women ,nacew.govt.nz,No,District Council
+Ministry for Women ,women.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",broadband.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",broadbandmap.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",builders.govt.nz,No,Regional Council
+"Ministry of Business, Innovation and Employment",building.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",buildingvalue.co.nz,No,Regional Council
+"Ministry of Business, Innovation and Employment",builditright.govt.nz,No,State Owned Enterprise
+"Ministry of Business, Innovation and Employment",business-migrants.govt.nz,Yes,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",business.govt.nz,No,Autonomous Crown Entity
+"Ministry of Business, Innovation and Employment",businessdata.govt.nz,Yes,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",companies.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",companiesoffice.govt.nz,No,State Owned Enterprise
+"Ministry of Business, Innovation and Employment",consumeraffairs.govt.nz,Yes,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",consumerbuild.org.nz,No,District Health Board
 "Ministry of Business, Innovation and Employment",consumerprotection.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",employment.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",energysafety.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",era.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",ewrb.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",ewr.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",g2b.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",crownminerals.govt.nz,No,District Health Board
+"Ministry of Business, Innovation and Employment",dbh.govt.nz,No,Crown entity company
+"Ministry of Business, Innovation and Employment",dol.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",employment.govt.nz,Yes,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",energysafety.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",era.govt.nz,No,Independent Crown Entity
+"Ministry of Business, Innovation and Employment",ess.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",ewr.govt.nz,No,Trust
+"Ministry of Business, Innovation and Employment",ewrb.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",foodandbeverage.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",frst.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",fspr.govt.nz,No,Non-Public Service department
+"Ministry of Business, Innovation and Employment",g2b.govt.nz,No,Regional Council
 "Ministry of Business, Innovation and Employment",gets.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",hstaskforce.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",iaa.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",immigration.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",gpg.govt.nz,No,City Council
+"Ministry of Business, Innovation and Employment",hstaskforce.govt.nz,No,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",iaa.govt.nz,No,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",immigration.govt.nz,Yes,Public Service department
 "Ministry of Business, Innovation and Employment",insolvency.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",iponz.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",lbp.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",majorevents.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",mbie.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",motortraders.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",movetonz.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",newzealandnow.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",investmentnow.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",iponz.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",lbp.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",leakyhomes.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",limitedpartnerships.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",loanstress.govt.nz,Yes,City Council
+"Ministry of Business, Innovation and Employment",majorevents.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",mbie.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",med.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",minhousing.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",morst.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",motortraders.govt.nz,Yes,District Council
+"Ministry of Business, Innovation and Employment",movetonz.govt.nz,No,City Council
+"Ministry of Business, Innovation and Employment",msi.govt.nz,No,City Council
+"Ministry of Business, Innovation and Employment",networkzonline.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",newzealandnow.govt.nz,Yes,Public Service department
 "Ministry of Business, Innovation and Employment",nzbn.govt.nz,No,Public Service department
 "Ministry of Business, Innovation and Employment",nzis.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",nzpam.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",nzpam.govt.nz,No,Crown Entity - Crown Agent
+"Ministry of Business, Innovation and Employment",opportunitycanterbury.org.nz,No,District Council
+"Ministry of Business, Innovation and Employment",osh.govt.nz,No,District Council
+"Ministry of Business, Innovation and Employment",pmcoe.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",powerswitch.org.nz,Yes,Public Service department
 "Ministry of Business, Innovation and Employment",ppsr.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",procurement.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",recalls.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",remauthority.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",rsm.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",ska.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",societies.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",standards.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",tenancy.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",builders.govt.nz,No,Public Service department
-"Ministry of Business, Innovation and Employment",broadband.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",broadbandmap.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",builditright.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",companies.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",consumeraffairs.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",crownminerals.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",dbh.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",dol.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",ess.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",foodandbeverage.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",frst.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",fspr.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",gpg.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",investmentnow.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",leakyhomes.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",limitedpartnerships.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",loanstress.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",med.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",minhousing.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",morst.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",msi.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",networkzonline.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",osh.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",pmcoe.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",procurement.govt.nz,No,District Council
 "Ministry of Business, Innovation and Employment",pvr.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",retirementvillages.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",scamwatch.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",shu.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",ssnz.govt.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",recalls.govt.nz,No,Non-Public Service department
+"Ministry of Business, Innovation and Employment",remauthority.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",retirementvillages.govt.nz,No,Mixed Ownership Model company
+"Ministry of Business, Innovation and Employment",rsm.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",scamwatch.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",shu.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",ska.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",smarterhomes.org.nz,Yes,Public Service department
+"Ministry of Business, Innovation and Employment",societies.govt.nz,No,District Health Board
+"Ministry of Business, Innovation and Employment",ssnz.govt.nz,No,District Health Board
+"Ministry of Business, Innovation and Employment",standards.govt.nz,No,Regulatory Authority
+"Ministry of Business, Innovation and Employment",tenancy.govt.nz,No,Mixed Ownership Model company
 "Ministry of Business, Innovation and Employment",tourism.govt.nz,Yes,Public Service department
 "Ministry of Business, Innovation and Employment",tourismresearch.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",vri.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",weathertightness.govt.nz,Yes,Public Service department
-"Ministry of Business, Innovation and Employment",businessdata.govt.nz,Yes,Public Service department
-Ministry of Education,asia-knowledge.tki.org.nz,No,Public Service department
-Ministry of Education,ncea.tki.org.nz,No,Public Service department
-Ministry of Education,nzcurriculum.tki.org.nz,No,Public Service department
-Ministry of Education,nzmaths.co.nz,No,Public Service department
-Ministry of Education,studyit.org.nz,No,Public Service department
-Ministry of Education,UiaNgaPatai.co.nz,No,Public Service department
-Ministry of Education,vln.school.nz,No,Public Service department
-Ministry of Education,wicked.org.nz,No,Public Service department
-Ministry of Education,educationalleaders.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",volunteernet.org.nz,Yes,Non-Public Service department
+"Ministry of Business, Innovation and Employment",vri.govt.nz,No,Public Service department
+"Ministry of Business, Innovation and Employment",weathertightness.govt.nz,Yes,Independent Crown Entity
+Ministry of Education,asia-knowledge.tki.org.nz,Yes,Public Service department
+Ministry of Education,education.govt.nz,Yes,Public Service department
+Ministry of Education,educationalleaders.govt.nz,Yes,Public Service department
 Ministry of Education,educationcounts.govt.nz,No,Public Service department
-Ministry of Education,education.govt.nz,No,Public Service department
+Ministry of Education,educationnz.govt.nz,No,Public Service department
+Ministry of Education,minedu.govt.nz,No,District Council
+Ministry of Education,ncea.tki.org.nz,No,Public Service department
 Ministry of Education,novopay.govt.nz,No,Public Service department
+Ministry of Education,nzcurriculum.tki.org.nz,No,Public Service department
+Ministry of Education,nzmaths.co.nz,No,Crown Entity - Crown Agent
 Ministry of Education,shapingeducation.govt.nz,No,Public Service department
-Ministry of Education,steo.govt.nz,No,Public Service department
-Ministry of Education,teachnz.govt.nz,No,Public Service department
-Ministry of Education,unesco.govt.nz,No,Public Service department
-Ministry of Education,educationnz.govt.nz,Yes,Public Service department
-Ministry of Education,minedu.govt.nz,Yes,Public Service department
-Ministry of Foreign Affairs and Trade,mfatimages.smugmug.com,No,Public Service department
-Ministry of Foreign Affairs and Trade,nzembassy.com,No,Public Service department
-Ministry of Foreign Affairs and Trade,mfat.govt.nz,No,Public Service department
-Ministry of Foreign Affairs and Trade,safetravel.govt.nz,No,Public Service department
-Ministry of Foreign Affairs and Trade,aid.govt.nz,Yes,Public Service department
-Ministry of Foreign Affairs and Trade,chinafta.govt.nz,Yes,Public Service department
+Ministry of Education,steo.govt.nz,Yes,Public Service department
+Ministry of Education,studyit.org.nz,Yes,Crown Entity - Crown Agent
+Ministry of Education,teachnz.govt.nz,No,District Council
+Ministry of Education,UiaNgaPatai.co.nz,Yes,Public Service department
+Ministry of Education,unesco.govt.nz,Yes,Regional Council
+Ministry of Education,vln.school.nz,No,Public Service department
+Ministry of Education,wicked.org.nz,No,Crown Entity - Crown Agent
+Ministry of Foreign Affairs and Trade,aid.govt.nz,No,Autonomous Crown Entity
+Ministry of Foreign Affairs and Trade,chinafta.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Foreign Affairs and Trade,mfat.govt.nz,Yes,Public Service department
+Ministry of Foreign Affairs and Trade,mfatimages.smugmug.com,No,City Council
 Ministry of Foreign Affairs and Trade,mft.govt.nz,Yes,Public Service department
-Ministry of Foreign Affairs and Trade,nzaid.govt.nz,Yes,Public Service department
-Ministry of Foreign Affairs and Trade,nzpsi.govt.nz,Yes,Public Service department
-Ministry of Foreign Affairs and Trade,nzunsc.govt.nz,Yes,Public Service department
+Ministry of Foreign Affairs and Trade,nzaid.govt.nz,No,Public Service department
+Ministry of Foreign Affairs and Trade,nzembassy.com,No,Non-Public Service department
+Ministry of Foreign Affairs and Trade,nzpsi.govt.nz,No,Non-Public Service department
+Ministry of Foreign Affairs and Trade,nzunsc.govt.nz,No,City Council
+Ministry of Foreign Affairs and Trade,safetravel.govt.nz,Yes,Crown Entity - Crown Agent
 Ministry of Health,aniva.co.nz,No,Public Service department
-Ministry of Health,csi.org.nz,No,Public Service department
-Ministry of Health,drughelp.org.nz,No,Public Service department
-Ministry of Health,hiirc.org.nz,No,Public Service department
-Ministry of Health,ithealthboard.health.nz,No,Public Service department
-Ministry of Health,learnonline.health.nz,No,Public Service department
-Ministry of Health,methhelp.org.nz,No,Public Service department
-Ministry of Health,pothelp.org.nz,No,Public Service department
-Ministry of Health,publichealthworkforce.org.nz,No,Public Service department
-Ministry of Health,healthemis.govt.nz,No,Public Service department
-Ministry of Health,health.govt.nz,No,Public Service department
-Ministry of Health,hikb.govt.nz,No,Public Service department
-Ministry of Health,hisac.govt.nz,No,Public Service department
-Ministry of Health,improvementmethodology.govt.nz,No,Public Service department
-Ministry of Health,medsafe.govt.nz,No,Public Service department
-Ministry of Health,nsu.govt.nz,No,Public Service department
-Ministry of Health,anztpa.govt.nz,No,Public Service department
-Ministry of Health,breastscreen.govt.nz,Yes,Public Service department
+Ministry of Health,anztpa.govt.nz,Yes,Public Service department
+Ministry of Health,breastscreen.govt.nz,No,Public Service department
 Ministry of Health,cancercontrolnz.govt.nz,Yes,Public Service department
-Ministry of Health,cervicalscreening.govt.nz,Yes,Public Service department
+Ministry of Health,cervicalscreening.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Health,csi.org.nz,No,City Council
+Ministry of Health,drughelp.org.nz,No,City Council
 Ministry of Health,electiveservices.govt.nz,Yes,Public Service department
-Ministry of Health,healthline.govt.nz,Yes,Public Service department
+Ministry of Health,health.govt.nz,No,Non-Public Service department
+Ministry of Health,healthemis.govt.nz,No,District Council
+Ministry of Health,healthline.govt.nz,No,Crown Entity - Crown Agent
 Ministry of Health,healthworkforce.govt.nz,Yes,Public Service department
-Ministry of Health,immunise.govt.nz,Yes,Public Service department
-Ministry of Health,maorihealth.govt.nz,Yes,Public Service department
-Ministry of Health,moh.govt.nz,Yes,Public Service department
-Ministry of Health,naso.govt.nz,Yes,Public Service department
-Ministry of Health,ndp.govt.nz,Yes,Public Service department
-Ministry of Health,nzhis.govt.nz,Yes,Public Service department
-Ministry of Health ,anztpa.govt.nz,No,Public Service department
-Ministry of Justice,cap.govt.nz,No,Public Service department
-Ministry of Justice,courtsofnz.govt.nz,No,Public Service department
+Ministry of Health,hiirc.org.nz,No,Crown Entity - Crown Agent
+Ministry of Health,hikb.govt.nz,No,Public Service department
+Ministry of Health,hisac.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry of Health,immunise.govt.nz,No,Public Service department
+Ministry of Health,improvementmethodology.govt.nz,No,Public Service department
+Ministry of Health,ithealthboard.health.nz,No,Crown entity company
+Ministry of Health,learnonline.health.nz,No,District Health Board
+Ministry of Health,maorihealth.govt.nz,Yes,District Health Board
+Ministry of Health,medsafe.govt.nz,No,District Health Board
+Ministry of Health,methhelp.org.nz,Yes,Crown Entity - Crown Agent
+Ministry of Health,moh.govt.nz,No,Public Service department
+Ministry of Health,naso.govt.nz,No,Regional Council
+Ministry of Health,ndp.govt.nz,No,City Council
+Ministry of Health,nsu.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Health,nzhis.govt.nz,No,Public Service department
+Ministry of Health,pothelp.org.nz,No,Crown Entity - Crown Agent
+Ministry of Health,publichealthworkforce.org.nz,Yes,Public Service department
+Ministry of Justice,cap.govt.nz,Yes,Autonomous Crown Entity
+Ministry of Justice,courts.govt.nz,No,Autonomous Crown Entity
+Ministry of Justice,courtsofnz.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Justice,criminaljustice.govt.nz,Yes,Crown Entity - Crown Agent
 Ministry of Justice,disputestribunal.govt.nz,No,Public Service department
-Ministry of Justice,districtcourts.govt.nz,No,Public Service department
+Ministry of Justice,districtcourts.govt.nz,No,Other
 Ministry of Justice,employmentcourt.govt.nz,No,Public Service department
-Ministry of Justice,environmentcourt.govt.nz,No,Public Service department
+Ministry of Justice,environmentcourt.govt.nz,No,Non-Public Service department
+Ministry of Justice,fines.govt.nz,No,Public Service department
 Ministry of Justice,gwn.govt.nz,No,Public Service department
 Ministry of Justice,igis.govt.nz,No,Public Service department
-Ministry of Justice,ijs.govt.nz,No,Public Service department
-Ministry of Justice,justice.govt.nz,No,Public Service department
-Ministry of Justice,maorilandcourt.govt.nz,No,Public Service department
-Ministry of Justice,pds.govt.nz,No,Public Service department
-Ministry of Justice,victimsinfo.govt.nz,No,Public Service department
-Ministry of Justice,waitangitribunal.govt.nz,No,Public Service department
-Ministry of Justice,youthcourt.govt.nz,No,Public Service department
-Ministry of Justice,maorilandonline.govt.nz,No,Public Service department
-Ministry of Justice,courts.govt.nz,Yes,Public Service department
-Ministry of Justice,criminaljustice.govt.nz,Yes,Public Service department
-Ministry of Justice,fines.govt.nz,Yes,Public Service department
+Ministry of Justice,ijs.govt.nz,No,Autonomous Crown Entity
+Ministry of Justice,justice.govt.nz,No,Crown entity company
 Ministry of Justice,legalservicescommissioner.govt.nz,Yes,Public Service department
 Ministry of Justice,lsa.govt.nz,Yes,Public Service department
-Ministry of Justice,ots.govt.nz,Yes,Public Service department
-Ministry of Justice,payorstay.govt.nz,Yes,Public Service department
-Ministry of Justice,pspla.govt.nz,Yes,Public Service department
-Ministry of Justice,tenancytribunal.govt.nz,Yes,Public Service department
+Ministry of Justice,maorilandcourt.govt.nz,No,Public Service department
+Ministry of Justice,maorilandonline.govt.nz,No,Public Service department
+Ministry of Justice,ots.govt.nz,No,Public Service department
+Ministry of Justice,payorstay.govt.nz,No,Public Service department
+Ministry of Justice,pds.govt.nz,No,Autonomous Crown Entity
+Ministry of Justice,pspla.govt.nz,No,Public Service department
+Ministry of Justice,tenancytribunal.govt.nz,No,Crown entity company
+Ministry of Justice,victimsinfo.govt.nz,No,State Owned Enterprise
 Ministry of Justice,waitangi-tribunal.govt.nz,Yes,Public Service department
+Ministry of Justice,waitangitribunal.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Justice,youthcourt.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry of Social Development,211.govt.nz,No,Statutory Body
 Ministry of Social Development,areyouok.org.nz,No,Public Service department
-Ministry of Social Development,thinkdifferently.org.nz,No,Public Service department
 Ministry of Social Development,childrensactionplan.govt.nz,No,Public Service department
-Ministry of Social Development,contractmapping.govt.nz,No,Public Service department
-Ministry of Social Development,familyservices.govt.nz,No,Public Service department
-Ministry of Social Development,hcn.govt.nz,No,Public Service department
-Ministry of Social Development,heartlandservices.govt.nz,No,Public Service department
-Ministry of Social Development,msd.govt.nz,No,Public Service department
-Ministry of Social Development,myd.govt.nz,No,Public Service department
-Ministry of Social Development,odi.govt.nz,No,Public Service department
-Ministry of Social Development,quakeaccommodation.govt.nz,No,Public Service department
-Ministry of Social Development,siu.govt.nz,No,Public Service department
-Ministry of Social Development,socialhousing.govt.nz,No,Public Service department
-Ministry of Social Development,spear.govt.nz,No,Public Service department
-Ministry of Social Development,strengtheningfamilies.govt.nz,No,Public Service department
-Ministry of Social Development,studylink.govt.nz,No,Public Service department
-Ministry of Social Development,supergold.govt.nz,No,Public Service department
-Ministry of Social Development,superu.govt.nz,No,Public Service department
-Ministry of Social Development,viki.govt.nz,No,Public Service department
-Ministry of Social Development,workandincome.govt.nz,No,Public Service department
-Ministry of Social Development,workingforfamilies.govt.nz,No,Public Service department
-Ministry of Social Development,youthaffairs.govt.nz,No,Public Service department
-Ministry of Social Development,youthdevelopment.govt.nz,No,Public Service department
-Ministry of Social Development,youthservice.govt.nz,No,Public Service department
-Ministry of Social Development,youthvoices.govt.nz,No,Public Service department
-Ministry of Social Development,communityinvestment.govt.nz,Yes,Public Service department
-Ministry of Social Development,cyf.govt.nz,Yes,Public Service department
+Ministry of Social Development,communityinvestment.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry of Social Development,contractmapping.govt.nz,No,Non-Public Service department
+Ministry of Social Development,cyf.govt.nz,No,Autonomous Crown Entity
+Ministry of Social Development,familyservices.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Social Development,hcn.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Social Development,heartlandservices.govt.nz,No,Crown Entity - Crown Agent
+Ministry of Social Development,msd.govt.nz,Yes,Public Service department
+Ministry of Social Development,myd.govt.nz,No,Offices of Parliament
+Ministry of Social Development,odi.govt.nz,No,Independent Crown Entity
 Ministry of Social Development,osc.govt.nz,Yes,Public Service department
-Ministry of Social Development,seniorcitizens.govt.nz,Yes,Public Service department
-Ministry of Social Development,socialpolicy.govt.nz,Yes,Public Service department
+Ministry of Social Development,quakeaccommodation.govt.nz,No,Regional Council
+Ministry of Social Development,seniorcitizens.govt.nz,No,Public Service department
+Ministry of Social Development,siu.govt.nz,No,Regulatory Authority
+Ministry of Social Development,socialhousing.govt.nz,No,Non-Public Service department
+Ministry of Social Development,socialpolicy.govt.nz,No,Public Service department
+Ministry of Social Development,spear.govt.nz,Yes,Offices of Parliament
+Ministry of Social Development,strengtheningfamilies.govt.nz,No,Offices of Parliament
+Ministry of Social Development,studylink.govt.nz,Yes,Offices of Parliament
+Ministry of Social Development,supergold.govt.nz,Yes,Offices of Parliament
+Ministry of Social Development,thinkdifferently.org.nz,No,Crown Entity - Crown Agent
+Ministry of Social Development,viki.govt.nz,No,Public Service department
 Ministry of Social Development,wff.govt.nz,Yes,Public Service department
-Ministry of Social Development,youthparliament.govt.nz,Yes,Public Service department
-Ministry of Social Development,211.govt.nz,Yes,Public Service department
 Ministry of Social Development,winz.govt.nz,Yes,Public Service department
-Ministry of Transport,maliat.govt.nz,No,Public Service department
+Ministry of Social Development,workandincome.govt.nz,No,Regional Council
+Ministry of Social Development,workingforfamilies.govt.nz,Yes,Other
+Ministry of Social Development,youthaffairs.govt.nz,No,District Council
+Ministry of Social Development,youthdevelopment.govt.nz,Yes,Public Service department
+Ministry of Social Development,youthparliament.govt.nz,No,Public Finance Act Fourth Schedule Organisation
+Ministry of Social Development,youthservice.govt.nz,Yes,City Council
+Ministry of Social Development,youthvoices.govt.nz,No,City Council
+Ministry of Transport,maliat.govt.nz,Yes,Non-Public Service department
+Ministry of Transport,mot.govt.nz,No,Public Service department
 Ministry of Transport,nzsar.govt.nz,No,Public Service department
-Ministry of Transport,saferjourneys.govt.nz,No,Public Service department
-Ministry of Transport,transport.govt.nz,No,Public Service department
-Ministry of Transport,mot.govt.nz,Yes,Public Service department
-Museum of New Zealand Te Papa Tongarewa,tepapa.govt.nz,No,Autonomous Crown Entity
-Museum of New Zealand Te Papa Tongarewa,treaty2u.govt.nz,No,Autonomous Crown Entity
-Napier City Council ,napier.govt.nz,No,City Council
-National Institute of Water and Atmospheric Research,niwa.co.nz,No,Crown entity company
-Nelson City Council,ncc.govt.nz,No,City Council
-Nelson City Council,nelson.govt.nz,No,City Council
-Nelson City Council,nelsonpubliclibraries.govt.nz,No,City Council
+Ministry of Transport,saferjourneys.govt.nz,Yes,Public Service department
+Ministry of Transport,transport.govt.nz,No,City Council
+Museum of New Zealand Te Papa Tongarewa,tepapa.govt.nz,No,Non-Public Service department
+Museum of New Zealand Te Papa Tongarewa,treaty2u.govt.nz,No,Public Finance Act Fourth Schedule Organisation
+Napier City Council ,napier.govt.nz,No,Non-Public Service department
+National Institute of Water and Atmospheric Research,niwa.co.nz,No,Public Service department
+Nelson City Council,ncc.govt.nz,No,Public Service department
+Nelson City Council,nelson.govt.nz,No,Crown Entity - Crown Agent
+Nelson City Council,nelsonpubliclibraries.govt.nz,Yes,Public Service department
 Nelson City Council,nrsbu.govt.nz,No,City Council
-Nelson Marlborough District Health Board,nmdhb.govt.nz,No,District Health Board
-Nelson Marlborough District Health Board,nmhs.govt.nz,Yes,District Health Board
-New Plymouth District Council,newplymouth.govt.nz,No,District Council
-New Zealand Antarctic Institute,scottbase50years.co.nz,No,Crown Entity - Crown Agent
-New Zealand Artificial Limb Service ,nzals.govt.nz,No,Autonomous Crown Entity
-New Zealand Artificial Limb Service ,nzalb.govt.nz,Yes,Autonomous Crown Entity
-New Zealand Blood Service,nzblood.co.nz,No,Crown Entity - Crown Agent
-New Zealand Blood Service,startafanclub.co.nz,No,Crown Entity - Crown Agent
+Nelson Marlborough District Health Board,nmdhb.govt.nz,No,Non-Public Service department
+Nelson Marlborough District Health Board,nmhs.govt.nz,No,Public Service department
+New Plymouth District Council,newplymouth.govt.nz,No,Public Service department
+New Zealand Antarctic Institute,scottbase50years.co.nz,No,Public Service department
+New Zealand Artificial Limb Service ,nzalb.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Artificial Limb Service ,nzals.govt.nz,Yes,Non-Public Service department
+New Zealand Blood Service,nzblood.co.nz,No,Independent Crown Entity
 New Zealand Blood Service,nzblood.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Council for Educational Research,nzcer.org.nz,No,Other
-New Zealand Customs Service,contrabandmagazine.org.nz,No,Non-Public Service department
-New Zealand Customs Service,whatsmyduty.org.nz,No,Non-Public Service department
-New Zealand Customs Service,customs.govt.nz,No,Non-Public Service department
-New Zealand Customs Service,jbmsconsultation.govt.nz,No,Non-Public Service department
+New Zealand Blood Service,startafanclub.co.nz,No,Public Service department
+New Zealand Council for Educational Research,nzcer.org.nz,No,Independent Crown Entity
+New Zealand Customs Service,contrabandmagazine.org.nz,No,Crown Entity - Crown Agent
+New Zealand Customs Service,customs.govt.nz,Yes,Crown Entity - Crown Agent
+New Zealand Customs Service,jbmsconsultation.govt.nz,Yes,Public Service department
 New Zealand Customs Service,tsw.govt.nz,No,Non-Public Service department
-New Zealand Defence Force,airforce.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,airforcemuseum.co.nz,No,Non-Public Service department
-New Zealand Defence Force,armymuseum.co.nz,No,Non-Public Service department
-New Zealand Defence Force,cadetforces.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,defencecareers.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,homebase.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,medals.nzdf.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,navy.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,navymuseum.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,nzdf.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,reserves.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,veteransaffairs.mil.nz,No,Non-Public Service department
-New Zealand Defence Force,defence.govt.nz,No,Non-Public Service department
-New Zealand Defence Force,desc.govt.nz,No,Non-Public Service department
-New Zealand Film Commission,nzfilm.co.nz,No,Autonomous Crown Entity
-New Zealand Fire Service Commission,fire.org.nz,No,Crown Entity - Crown Agent
-New Zealand Fire Service Commission,incidents.fire.org.nz,No,Crown Entity - Crown Agent
-New Zealand Fish and Game Council,fishandgame.org.nz,No,Public Finance Act Fourth Schedule Organisation
-New Zealand Lotteries Commission,mylotto.co.nz,No,Autonomous Crown Entity
-New Zealand Optometrists and Dispensing Opticians Board,odob.health.nz,No,Regulatory Authority
-New Zealand Police,buster.org.nz,No,Non-Public Service department
-New Zealand Police,newcops.co.nz,No,Non-Public Service department
-New Zealand Police,forms.police.govt.nz/forms/single-non-emergency-number/31,No,Non-Public Service department
-New Zealand Police,https://login.microsoftonline.com/6306a8db-97db-41dd-be02-77541bd7cffb/oauth2/authorize?client_id=cc522d88-4391-429a-a444-,No,Non-Public Service department
-New Zealand Police,ofcanz.govt.nz,No,Non-Public Service department
-New Zealand Police,police.govt.nz,No,Non-Public Service department
-New Zealand Police,womeninblue.co.nz,Yes,Non-Public Service department
-New Zealand Police,111.govt.nz,Yes,Non-Public Service department
-New Zealand Police,crl.govt.nz,Yes,Non-Public Service department
-New Zealand Police,isr.govt.nz,Yes,Non-Public Service department
-New Zealand Police,snen.govt.nz,Yes,Non-Public Service department
-New Zealand Post Limited,kiwibank.co.nz,No,State Owned Enterprise
-New Zealand Post Limited,nzpost.co.nz,No,State Owned Enterprise
-New Zealand Productivity Commission ,productivity.govt.nz,No,Independent Crown Entity
-New Zealand Public Health Observatory,nzpho.org.nz,No,Crown entity company
-New Zealand Qualifications Authority,nzqa.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,neic.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,kiwiquals.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,ncea.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,nzqf.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,nzscholarship.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,qualifications.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,qualsregister.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,scholarship.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Qualifications Authority,topart.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Racing Board,nzracingboard.co.nz,No,Statutory Body
-New Zealand Racing Board,tab.co.nz,No,Statutory Body
-New Zealand Racing Board,theraces.co.nz,No,Statutory Body
-New Zealand Security Intelligence Service ,nzsis.govt.nz,No,Non-Public Service department
-New Zealand Security Intelligence Service ,protectivesecurity.govt.nz,No,Non-Public Service department
-New Zealand Security Intelligence Service ,security.govt.nz,No,Non-Public Service department
-New Zealand Symphony Orchestra,nzso.co.nz,No,Autonomous Crown Entity
-New Zealand Tourism Board,newzealand.com,No,Crown Entity - Crown Agent
-New Zealand Tourism Board,tourismnewzealand.com,No,Crown Entity - Crown Agent
-New Zealand Tourism Board,images.newzealand.com,Yes,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,projectlink.co.nz,No,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,g2g.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,nzstory.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,nzte.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,investmentnz.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,investnewzealand.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,newzealandtrade-enterprise.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Trade and Enterprise,projectlink.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,aucklandmotorways.com,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,bikewise.co.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,practice.co.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,drive.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,nzta.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,onthemove.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,rightcar.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,safednz.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,tolls.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,transit.govt.nz,No,Crown Entity - Crown Agent
-New Zealand Transport Agency,crashtest.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,feetfirst.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,fuelsave.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,fuelsaver.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,giveway.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,highwayinfo.govt.nz,Yes,Crown Entity - Crown Agent
+New Zealand Customs Service,whatsmyduty.org.nz,Yes,Public Service department
+New Zealand Defence Force,airforce.mil.nz,No,Public Service department
+New Zealand Defence Force,airforcemuseum.co.nz,Yes,Public Service department
+New Zealand Defence Force,armymuseum.co.nz,No,Public Service department
+New Zealand Defence Force,cadetforces.mil.nz,No,Autonomous Crown Entity
+New Zealand Defence Force,defence.govt.nz,Yes,Public Service department
+New Zealand Defence Force,defencecareers.mil.nz,No,District Council
+New Zealand Defence Force,desc.govt.nz,No,Public Service department
+New Zealand Defence Force,homebase.mil.nz,Yes,Public Service department
+New Zealand Defence Force,medals.nzdf.mil.nz,No,Public Service department
+New Zealand Defence Force,navy.mil.nz,Yes,Crown Entity - Crown Agent
+New Zealand Defence Force,navymuseum.mil.nz,No,City Council
+New Zealand Defence Force,nzdf.mil.nz,No,Public Service department
+New Zealand Defence Force,reserves.mil.nz,Yes,Crown Entity - Crown Agent
+New Zealand Defence Force,veteransaffairs.mil.nz,No,Crown Entity - Crown Agent
+New Zealand Film Commission,nzfilm.co.nz,No,State Owned Enterprise
+New Zealand Fire Service Commission,fire.org.nz,Yes,District Council
+New Zealand Fire Service Commission,incidents.fire.org.nz,No,District Council
+New Zealand Fish and Game Council,fishandgame.org.nz,Yes,Public Service department
+New Zealand Lotteries Commission,mylotto.co.nz,Yes,Public Service department
+New Zealand Optometrists and Dispensing Opticians Board,odob.health.nz,No,Reserve Bank of New Zealand
+New Zealand Police,111.govt.nz,No,Reserve Bank of New Zealand
+New Zealand Police,buster.org.nz,Yes,District Council
+New Zealand Police,crl.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Police,forms.police.govt.nz/forms/single-non-emergency-number/31,No,Public Service department
+New Zealand Police,https://login.microsoftonline.com/6306a8db-97db-41dd-be02-77541bd7cffb/oauth2/authorize?client_id=cc522d88-4391-429a-a444-,No,Crown entity company
+New Zealand Police,isr.govt.nz,No,Public Service department
+New Zealand Police,newcops.co.nz,No,District Health Board
+New Zealand Police,ofcanz.govt.nz,No,Public Service department
+New Zealand Police,police.govt.nz,Yes,Reserve Bank of New Zealand
+New Zealand Police,snen.govt.nz,No,Reserve Bank of New Zealand
+New Zealand Police,womeninblue.co.nz,No,Non-Public Service department
+New Zealand Post Limited,kiwibank.co.nz,Yes,Autonomous Crown Entity
+New Zealand Post Limited,nzpost.co.nz,Yes,Public Service department
+New Zealand Productivity Commission ,productivity.govt.nz,No,Public Service department
+New Zealand Public Health Observatory,nzpho.org.nz,No,Crown Entity - Crown Agent
+New Zealand Qualifications Authority,kiwiquals.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Qualifications Authority,ncea.govt.nz,No,Public Service department
+New Zealand Qualifications Authority,neic.govt.nz,Yes,Crown Entity - Crown Agent
+New Zealand Qualifications Authority,nzqa.govt.nz,No,City Council
+New Zealand Qualifications Authority,nzqf.govt.nz,No,District Council
+New Zealand Qualifications Authority,nzscholarship.govt.nz,Yes,Public Service department
+New Zealand Qualifications Authority,qualifications.govt.nz,No,Public Service department
+New Zealand Qualifications Authority,qualsregister.govt.nz,No,District Council
+New Zealand Qualifications Authority,scholarship.govt.nz,No,Regional Council
+New Zealand Qualifications Authority,topart.govt.nz,Yes,Public Service department
+New Zealand Racing Board,nzracingboard.co.nz,No,Crown Entity - Crown Agent
+New Zealand Racing Board,tab.co.nz,No,Public Service department
+New Zealand Racing Board,theraces.co.nz,No,Public Service department
+New Zealand Security Intelligence Service ,nzsis.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Security Intelligence Service ,protectivesecurity.govt.nz,Yes,Public Service department
+New Zealand Security Intelligence Service ,security.govt.nz,No,District Health Board
+New Zealand Symphony Orchestra,nzso.co.nz,Yes,Crown Entity - Crown Agent
+New Zealand Tourism Board,images.newzealand.com,No,Crown Entity - Crown Agent
+New Zealand Tourism Board,newzealand.com,Yes,Independent Crown Entity
+New Zealand Tourism Board,tourismnewzealand.com,Yes,Independent Crown Entity
+New Zealand Trade and Enterprise,g2g.govt.nz,Yes,Non-Public Service department
+New Zealand Trade and Enterprise,investmentnz.govt.nz,No,Non-Public Service department
+New Zealand Trade and Enterprise,investnewzealand.govt.nz,No,Public Service department
+New Zealand Trade and Enterprise,newzealandtrade-enterprise.govt.nz,No,Public Service department
+New Zealand Trade and Enterprise,nzstory.govt.nz,No,District Council
+New Zealand Trade and Enterprise,nzte.govt.nz,Yes,Public Service department
+New Zealand Trade and Enterprise,projectlink.co.nz,No,Public Service department
+New Zealand Trade and Enterprise,projectlink.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Transport Agency,aucklandmotorways.com,No,Public Service department
+New Zealand Transport Agency,bikewise.co.nz,No,Public Service department
+New Zealand Transport Agency,crashtest.govt.nz,No,City Council
+New Zealand Transport Agency,drive.govt.nz,Yes,Public Service department
+New Zealand Transport Agency,feetfirst.govt.nz,No,Public Service department
+New Zealand Transport Agency,fuelsave.govt.nz,No,Public Service department
+New Zealand Transport Agency,fuelsaver.govt.nz,No,Crown Entity - Crown Agent
+New Zealand Transport Agency,giveway.govt.nz,No,Public Service department
+New Zealand Transport Agency,highwayinfo.govt.nz,No,Crown Entity - Crown Agent
 New Zealand Transport Agency,landtransport.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,roadsafety.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,tollroad.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Transport Agency,transfund.govt.nz,Yes,Crown Entity - Crown Agent
-New Zealand Walking Access Commission ,walkingaccess.govt.nz,No,Crown Entity - Crown Agent
-Northland District Health Board,northlanddhb.org.nz,No,District Health Board
-Northland Regional Council,nrc.govt.nz,No,Regional Council
-NZ on Air,audioculture.co.nz,No,Autonomous Crown Entity
-NZ on Air,nzonair.govt.nz,No,Autonomous Crown Entity
-Office of Film and Literature Classification,censor.org.nz,No,Independent Crown Entity
-Office of Film and Literature Classification,classificationoffice.govt.nz,No,Independent Crown Entity
-Office of Film and Literature Classification,censorship.govt.nz,Yes,Independent Crown Entity
-Office of the Auditor General,auditnz.govt.nz,No,Offices of Parliament
-Office of the Auditor General,auditor-general.parliament.nz,No,Offices of Parliament
-Office of the Auditor General,oag.govt.nz,No,Offices of Parliament
-Office of the Ombudsman ,ombudsman.parliament.nz,No,Offices of Parliament
-Office of the Ombudsman ,ombudsman.govt.nz,Yes,Offices of Parliament
-Office of the Ombudsman ,ombudsmen.govt.nz,Yes,Offices of Parliament
-Office of the Ombudsman ,ombudsmen.parliament.nz,Yes,Offices of Parliament
-Otago Museum,otagocdem.govt.nz,No,Other
-Otago Museum,otagomuseum.govt.nz,Yes,Other
-Otago Regional Council ,otagocdem.govt.nz,No,Regional Council
-Otorohanga District Council ,otodc.govt.nz,No,District Council
-Pacific Co-operation Foundation,pcf.org.nz,No,Public Finance Act Fourth Schedule Organisation
-Pacific Island Business Development Trust,pacificbusiness.co.nz,No,Public Finance Act Fourth Schedule Organisation
-Palmerston North City Council,lgcareers.co.nz/redirection-message,No,City Council
-Palmerston North City Council,pncc.govt.nz,No,City Council
-Palmerston North City Council,localgovernmentcareers.govt.nz,Yes,City Council
-Palmerston North City Council,palmerstonnorth.govt.nz,Yes,City Council
-Parliamentary Commissioner for the Environment,pce.parliament.nz,No,Offices of Parliament
-Parliamentary Council Office,legislation.govt.nz,No,Non-Public Service department
-Parliamentary Council Office,pco.govt.nz,No,Non-Public Service department
-Parliamentary Service ,pce.parliament.nz,No,Non-Public Service department
-Parliamentary Service ,www.parliament.nz,No,Non-Public Service department
-Parliamentary Service ,ministers.govt.nz,Yes,Non-Public Service department
-Parliamentary Service ,parliament.govt.nz,Yes,Non-Public Service department
-Parliamentary Service ,primeminister.govt.nz,Yes,Non-Public Service department
-Parliamentary Service ,secure.parliament.nz,Yes,Non-Public Service department
-Pharmaceutical Management Agency Ltd ,pharmac.govt.nz,No,Crown Entity - Crown Agent
-Porirua City Council,pcc.govt.nz,No,City Council
-Privacy Commissioner,privacy.org.nz,No,Independent Crown Entity
-Public Trust,publictrust.co.nz,No,Autonomous Crown Entity
+New Zealand Transport Agency,nzta.govt.nz,Yes,Non-Public Service department
+New Zealand Transport Agency,onthemove.govt.nz,No,Public Service department
+New Zealand Transport Agency,practice.co.nz,Yes,Public Service department
+New Zealand Transport Agency,rightcar.govt.nz,No,Public Service department
+New Zealand Transport Agency,roadsafety.govt.nz,No,Crown entity company
+New Zealand Transport Agency,safednz.govt.nz,No,Autonomous Crown Entity
+New Zealand Transport Agency,tollroad.govt.nz,No,District Health Board
+New Zealand Transport Agency,tolls.govt.nz,No,District Health Board
+New Zealand Transport Agency,transfund.govt.nz,No,Public Finance Act Schedule 4A Company
+New Zealand Transport Agency,transit.govt.nz,No,District Council
+New Zealand Walking Access Commission ,walkingaccess.govt.nz,No,City Council
+Northland District Health Board,northlanddhb.org.nz,Yes,Public Service department
+Northland Regional Council,nrc.govt.nz,No,Public Service department
+NZ on Air,audioculture.co.nz,No,Crown Entity - Crown Agent
+NZ on Air,nzonair.govt.nz,No,Crown Entity - Crown Agent
+Office of Film and Literature Classification,censor.org.nz,No,Public Service department
+Office of Film and Literature Classification,censorship.govt.nz,Yes,Public Service department
+Office of Film and Literature Classification,classificationoffice.govt.nz,Yes,Public Service department
+Office of the Auditor General,auditnz.govt.nz,No,Autonomous Crown Entity
+Office of the Auditor General,oag.govt.nz,No,Public Service department
+Office of the Ombudsman ,ombudsman.govt.nz,No,Crown Entity - Crown Agent
+Office of the Ombudsman ,ombudsman.parliament.nz,No,Public Service department
+Office of the Ombudsman ,ombudsmen.govt.nz,No,Public Service department
+Office of the Ombudsman ,ombudsmen.parliament.nz,No,Crown Entity - Crown Agent
+Otago Museum,otagomuseum.govt.nz,No,District Council
+Otago Regional Council ,otagocdem.govt.nz,No,District Council
+Otorohanga District Council ,otodc.govt.nz,No,Public Service department
+Pacific Co-operation Foundation,pcf.org.nz,No,City Council
+Pacific Island Business Development Trust,pacificbusiness.co.nz,No,Crown Entity - Crown Agent
+Palmerston North City Council,lgcareers.co.nz/redirection-message,No,Crown Entity - Crown Agent
+Palmerston North City Council,localgovernmentcareers.govt.nz,No,Public Service department
+Palmerston North City Council,palmerstonnorth.govt.nz,No,Public Service department
+Palmerston North City Council,pncc.govt.nz,No,Public Service department
+Parliamentary Council Office,legislation.govt.nz,No,Crown Entity - Crown Agent
+Parliamentary Council Office,pco.govt.nz,No,Public Service department
+Parliamentary Service ,ministers.govt.nz,No,Autonomous Crown Entity
+Parliamentary Service ,parliament.govt.nz,No,District Council
+Parliamentary Service ,pce.parliament.nz,No,Crown Entity - Crown Agent
+Parliamentary Service ,primeminister.govt.nz,No,Statutory Body
+Parliamentary Service ,secure.parliament.nz,No,Independent Crown Entity
+Parliamentary Service ,www.parliament.nz,No,District Health Board
+Pharmaceutical Management Agency Ltd ,pharmac.govt.nz,No,Independent Crown Entity
+Porirua City Council,pcc.govt.nz,No,District Council
+Privacy Commissioner,privacy.org.nz,No,District Council
+Public Trust,publictrust.co.nz,No,District Council
 Queenstown Lakes District Council,codc-qldc.govt.nz,No,District Council
 Queenstown Lakes District Council,qldc.govt.nz,No,District Council
-Quotable Value Limited,qv.co.nz,No,State Owned Enterprise
+Quotable Value Limited,qv.co.nz,No,District Council
+Rangitikei District Council,rangdc.govt.nz,No,Regional Council
 Rangitikei District Council,rangitikei.govt.nz,No,District Council
-Rangitikei District Council,rangdc.govt.nz,Yes,District Council
-Real Estate Agents Authority,reaa.govt.nz,No,Crown Entity - Crown Agent
-Research and Education Advanced Network New Zealand Limited,reannz.co.nz,No,Crown entity company
-Reserve Bank of New Zealand ,rbnz.govt.nz,No,Reserve Bank of New Zealand
-Reserve Bank of New Zealand ,rbnzmuseum.govt.nz,No,Reserve Bank of New Zealand
-Reserve Bank of New Zealand ,reservebankmuseum.govt.nz,No,Reserve Bank of New Zealand
-Reserve Bank of New Zealand ,reservebank.govt.nz,Yes,Reserve Bank of New Zealand
-Rotorua District Council ,www.rotorualakescouncil.nz,No,District Council
-Rotorua District Council ,rotorualibrary.govt.nz,No,District Council
-Rotorua District Council ,rdc.govt.nz,Yes,District Council
-Ruapehu District Council,ruapehudc.govt.nz,No,District Council
-Selwyn District Council ,selwyn.govt.nz,No,District Council
-Serious Fraud Office ,sfo.govt.nz,No,Public Service department
-Social Workers Registration Board ,swrb.govt.nz,No,Crown Entity - Crown Agent
-Solid Energy New Zealand Limited,coalnz.com,No,State Owned Enterprise
-South Canterbury District Health Board,scdhb.health.nz,No,District Health Board
-South Wairarapa District Council,swdc.govt.nz,No,District Council
-Southern District Health Board ,southerndhb.govt.nz,No,District Health Board
-Southern Primary Health Organisation,southernpho.health.nz,No,District Health Board
-Southern Response,southernresponse.co.nz,No,Public Finance Act Schedule 4A Company
-Southland District Council,southlanddc.govt.nz,No,District Council
-Southland Regional Council,es.govt.nz,No,Regional Council
-Sport New Zealand,sportnz.org.nz,No,Crown Entity - Crown Agent
-Sports Tribunal of New Zealand,sportstribunal.org.nz,No,Crown Entity - Crown Agent
+Real Estate Agents Authority,reaa.govt.nz,No,City Council
+Research and Education Advanced Network New Zealand Limited,reannz.co.nz,No,City Council
+Reserve Bank of New Zealand ,rbnz.govt.nz,Yes,City Council
+Reserve Bank of New Zealand ,rbnzmuseum.govt.nz,No,District Council
+Reserve Bank of New Zealand ,reservebank.govt.nz,Yes,District Council
+Reserve Bank of New Zealand ,reservebankmuseum.govt.nz,No,District Health Board
+Rotorua District Council ,rdc.govt.nz,Yes,Autonomous Crown Entity
+Rotorua District Council ,rotorualibrary.govt.nz,No,Public Service department
+Rotorua District Council ,www.rotorualakescouncil.nz,No,Public Service department
+Ruapehu District Council,ruapehudc.govt.nz,No,Crown Entity - Crown Agent
+Selwyn District Council ,selwyn.govt.nz,No,Public Service department
+Serious Fraud Office ,sfo.govt.nz,Yes,Public Service department
+Social Workers Registration Board ,swrb.govt.nz,No,Autonomous Crown Entity
+Solid Energy New Zealand Limited,coalnz.com,No,Autonomous Crown Entity
+South Canterbury District Health Board,scdhb.health.nz,No,City Council
+South Wairarapa District Council,swdc.govt.nz,No,City Council
+Southern District Health Board ,southerndhb.govt.nz,No,City Council
+Southern Primary Health Organisation,southernpho.health.nz,No,Public Service department
+Southern Response,southernresponse.co.nz,No,Crown Entity - Crown Agent
+Southland District Council,southlanddc.govt.nz,No,Statutory Body
+Southland Regional Council,es.govt.nz,No,Public Service department
+Sport New Zealand,sportnz.org.nz,No,District Council
+Sports Tribunal of New Zealand,sportstribunal.org.nz,No,Public Service department
 Standards New Zealand,standards.co.nz,No,Autonomous Crown Entity
-Statistics New Zealand,stats.govt.nz,No,Public Service department
-Statistics New Zealand,census.govt.nz,No,Public Service department
-Statistics New Zealand,innovation.stats.govt.nz,No,Public Service department
-Stratford District Council,stratford.govt.nz,No,District Council
-Stratford District Council,stratfordlibrary.govt.nz,No,District Council
-Tairawhiti District Health,tairawhitidhb.health.nz,No,District Health Board
-Tairawhiti District Health Board,tdh.org.nz,No,District Health Board
-Takeovers Panel,takeovers.govt.nz,No,Independent Crown Entity
-Taranaki Regional Council,trc.govt.nz,No,Regional Council
-Taranaki Regional Council ,cdemtaranaki.govt.nz,No,Regional Council
-Tararua District Council,tararuadc.govt.nz,No,District Council
-Tasman District Council ,taslib.govt.nz,No,District Council
-Tasman District Council ,tasman.govt.nz,No,District Council
-Tasman District Council ,tasmanlibraries.govt.nz,No,District Council
-Tasman District Council ,tdc.govt.nz,Yes,District Council
-Taupo District Council ,taupodc.govt.nz,No,District Council
-Taupo District Council ,taupo.govt.nz,No,District Council
-Taupo District Council ,taupolibrary.govt.nz,No,District Council
-Tauranga City Council,cobop.govt.nz,No,City Council
-Tauranga City Council,taurangacity.govt.nz,No,City Council
-Tauranga City Council,tauranga.govt.nz,No,City Council
-Tauranga City Council,taurangacityplan.govt.nz,Yes,City Council
-Te Mangai Paho,tmp.govt.nz,No,Autonomous Crown Entity
+Statistics New Zealand,census.govt.nz,No,District Health Board
+Statistics New Zealand,innovation.stats.govt.nz,Yes,Crown Entity - Crown Agent
+Statistics New Zealand,stats.govt.nz,No,Crown Entity - Crown Agent
+Stratford District Council,stratford.govt.nz,Yes,Crown Entity - Crown Agent
+Stratford District Council,stratfordlibrary.govt.nz,Yes,Public Service department
+Tairawhiti District Health,tairawhitidhb.health.nz,No,Crown Entity - Crown Agent
+Tairawhiti District Health Board,tdh.org.nz,Yes,Public Service department
+Takeovers Panel,takeovers.govt.nz,No,Public Service department
+Taranaki Regional Council,trc.govt.nz,Yes,Crown Entity - Crown Agent
+Taranaki Regional Council ,cdemtaranaki.govt.nz,No,Crown Entity - Crown Agent
+Tararua District Council,tararuadc.govt.nz,Yes,Public Service department
+Tasman District Council ,taslib.govt.nz,No,Public Service department
+Tasman District Council ,tasman.govt.nz,No,State Owned Enterprise
+Tasman District Council ,tasmanlibraries.govt.nz,No,Regional Council
+Tasman District Council ,tdc.govt.nz,No,Public Service department
+Taupo District Council ,taupo.govt.nz,No,Autonomous Crown Entity
+Taupo District Council ,taupodc.govt.nz,Yes,Public Service department
+Taupo District Council ,taupolibrary.govt.nz,No,Non-Public Service department
+Tauranga City Council,cobop.govt.nz,No,District Health Board
+Tauranga City Council,tauranga.govt.nz,No,Crown entity company
+Tauranga City Council,taurangacity.govt.nz,Yes,Public Service department
+Tauranga City Council,taurangacityplan.govt.nz,No,Public Service department
+Te Mangai Paho,tmp.govt.nz,No,City Council
 Te Puni Kokiri,tpk.govt.nz,No,Public Service department
-"Te Taura Whiri I Te Reo Maori, Maori Language Commission",tetaurawhiri.govt.nz,No,Autonomous Crown Entity
-Tertiary Education Commission ,skillshighway.govt.nz,No,Crown Entity - Crown Agent
-Tertiary Education Commission ,tec.govt.nz,No,Crown Entity - Crown Agent
-Thames Coromandel District Council ,tcdc.govt.nz,No,District Council
-Thames Coromandel District Council ,coromandel.govt.nz,Yes,District Council
-The Agricultural and Marketing Research and Development Trust,agmardt.org.nz,No,Public Finance Act Fourth Schedule Organisation
-The Commission for Financial Literacy and Retirement Income ,cflri.org.nz,No,Autonomous Crown Entity
-The Office of the Children’s Commissioner ,occ.org.nz,No,Independent Crown Entity
+"Te Taura Whiri I Te Reo Maori, Maori Language Commission",tetaurawhiri.govt.nz,Yes,Public Service department
+Tertiary Education Commission ,skillshighway.govt.nz,No,Public Service department
+Tertiary Education Commission ,tec.govt.nz,No,Non-Public Service department
+Thames Coromandel District Council ,coromandel.govt.nz,No,Public Service department
+Thames Coromandel District Council ,tcdc.govt.nz,Yes,Public Service department
+The Agricultural and Marketing Research and Development Trust,agmardt.org.nz,No,Public Service department
+The Commission for Financial Literacy and Retirement Income ,cflri.org.nz,No,Public Service department
+The Office of the Children’s Commissioner ,occ.org.nz,No,Public Service department
 The Treasury,boardappointments.co.nz,No,Public Service department
-The Treasury,budget.govt.nz,No,Public Service department
-The Treasury,cera.govt.nz,No,Public Service department
-The Treasury,civildefence.govt.nz,No,Public Service department
-The Treasury,connectsmart.govt.nz,No,Public Service department
-The Treasury,dpmc.govt.nz,No,Public Service department
-The Treasury,emis.govt.nz,No,Public Service department
-The Treasury,getthru.govt.nz,No,Public Service department
-The Treasury,gg.govt.nz,No,Public Service department
-The Treasury,infrastructure.govt.nz,No,Public Service department
-The Treasury,nzdmo.govt.nz,No,Public Service department
-The Treasury,nzeco.govt.nz,No,Public Service department
+The Treasury,budget.govt.nz,Yes,Public Service department
+The Treasury,cass.govt.nz,No,Regional Council
+The Treasury,ccdu.govt.nz,No,Regional Council
+The Treasury,ccmau.govt.nz,Yes,District Council
+The Treasury,cera.govt.nz,Yes,District Health Board
+The Treasury,civildefence.govt.nz,No,District Health Board
+The Treasury,comu.govt.nz,No,District Council
+The Treasury,connectsmart.govt.nz,No,District Health Board
+The Treasury,dpmc.govt.nz,No,District Council
+The Treasury,emis.govt.nz,No,Regional Council
+The Treasury,flag.govt.nz,No,Regional Council
+The Treasury,genesisenergyshares.govt.nz,No,Regional Council
+The Treasury,getthru.govt.nz,No,District Council
+The Treasury,gg.govt.nz,No,District Council
+The Treasury,governmentshareoffers.govt.nz,No,District Council
+The Treasury,govthouse.govt.nz,No,District Health Board
+The Treasury,infrastructure.govt.nz,No,District Council
+The Treasury,mcdem.govt.nz,No,Regional Council
+The Treasury,ncmc.govt.nz,No,District Council
+The Treasury,nzdmo.govt.nz,No,City Council
+The Treasury,nzeco.govt.nz,No,District Council
+The Treasury,ogp.org.nz,Yes,Public Service department
 The Treasury,shakeout.govt.nz,No,Public Service department
-The Treasury,ssc.govt.nz,No,Public Service department
-The Treasury,treasury.govt.nz,No,Public Service department
-The Treasury,uatemis.govt.nz,No,Public Service department
+The Treasury,ssc.govt.nz,No,District Health Board
+The Treasury,ssrss.govt.nz,No,District Council
+The Treasury,treasury.govt.nz,No,Crown Entity - Crown Agent
+The Treasury,uatemis.govt.nz,No,District Council
 The Treasury,whatstheplanstan.govt.nz,No,Public Service department
-The Treasury,genesisenergyshares.govt.nz,No,Public Service department
-The Treasury,cass.govt.nz,Yes,Public Service department
-The Treasury,ccdu.govt.nz,Yes,Public Service department
-The Treasury,ccmau.govt.nz,Yes,Public Service department
-The Treasury,comu.govt.nz,Yes,Public Service department
-The Treasury,flag.govt.nz,Yes,Public Service department
-The Treasury,governmentshareoffers.govt.nz,Yes,Public Service department
-The Treasury,govthouse.govt.nz,Yes,Public Service department
-The Treasury,mcdem.govt.nz,Yes,Public Service department
-The Treasury,ncmc.govt.nz,Yes,Public Service department
-The Treasury,ssrss.govt.nz,Yes,Public Service department
-The Treasury,ogp.org.nz,No,Public Service department
-Timaru District Council ,timaru.govt.nz,No,District Council
-Transport Accident Investigation Commission,taic.org.nz,No,Independent Crown Entity
-Transpower New Zealand Limited,transpower.co.nz,No,State Owned Enterprise
-TVNZ,tvnz.co.nz,No,Crown entity company
-Upper Hutt City Council ,uhcc.govt.nz,No,City Council
-Waikato District Council,waikatodistrict.govt.nz,No,District Council
-Waikato District Council,waikatolibraries.govt.nz,No,District Council
-Waikato District Council,waikatodc.govt.nz,Yes,District Council
-Waikato District Health Board ,healthshare.govt.nz,No,District Health Board
-Waikato District Health Board ,healthwaikato.govt.nz,No,District Health Board
-Waikato District Health Board ,waikatodhb.health.nz,No,District Health Board
-Waikato District Health Board ,waikatohospital.govt.nz,No,District Health Board
-Waikato District Health Board ,waikatodhb.govt.nz,Yes,District Health Board
-Waikato Regional Council ,envirolink.govt.nz,No,Regional Council
-Waikato Regional Council ,environmentwaikato.govt.nz,No,Regional Council
+Timaru District Council ,timaru.govt.nz,No,Public Service department
+Transport Accident Investigation Commission,taic.org.nz,Yes,City Council
+Transpower New Zealand Limited,transpower.co.nz,Yes,District Health Board
+TVNZ,tvnz.co.nz,No,City Council
+Upper Hutt City Council ,uhcc.govt.nz,No,Regional Council
+Waikato District Council,waikatodc.govt.nz,No,District Council
+Waikato District Council,waikatodistrict.govt.nz,No,District Health Board
+Waikato District Council,waikatolibraries.govt.nz,Yes,Public Service department
+Waikato District Health Board ,healthshare.govt.nz,No,Public Service department
+Waikato District Health Board ,healthwaikato.govt.nz,No,Crown Entity - Crown Agent
+Waikato District Health Board ,waikatodhb.govt.nz,No,City Council
+Waikato District Health Board ,waikatodhb.health.nz,No,City Council
+Waikato District Health Board ,waikatohospital.govt.nz,Yes,City Council
+Waikato Regional Council ,envirolink.govt.nz,Yes,City Council
+Waikato Regional Council ,environmentwaikato.govt.nz,No,Crown Entity - Crown Agent
+Waikato Regional Council ,ew.govt.nz,No,District Health Board
 Waikato Regional Council ,ruben.govt.nz,No,Regional Council
-Waikato Regional Council ,taupoinfo.govt.nz,No,Regional Council
-Waikato Regional Council ,waikatocivildefence.govt.nz,No,Regional Council
-Waikato Regional Council ,waikato.govt.nz,No,Regional Council
-Waikato Regional Council ,waikatoregionalcouncil.govt.nz,No,Regional Council
-Waikato Regional Council ,waikatoregioncdemg.govt.nz,No,Regional Council
-Waikato Regional Council ,waikatoregion.govt.nz,No,Regional Council
-Waikato Regional Council ,wairc.govt.nz,No,Regional Council
-Waikato Regional Council ,ew.govt.nz,Yes,Regional Council
+Waikato Regional Council ,taupoinfo.govt.nz,No,District Council
+Waikato Regional Council ,waikato.govt.nz,Yes,District Council
+Waikato Regional Council ,waikatocivildefence.govt.nz,No,District Council
+Waikato Regional Council ,waikatoregion.govt.nz,No,Public Service department
+Waikato Regional Council ,waikatoregionalcouncil.govt.nz,Yes,Public Service department
+Waikato Regional Council ,waikatoregioncdemg.govt.nz,No,City Council
+Waikato Regional Council ,wairc.govt.nz,No,City Council
 Waimakariri District Council,waimakariri.govt.nz,No,District Council
-Waimate District Council,waimatedc.govt.nz,No,District Council
-Waipa District Council,waipadc.govt.nz,No,District Council
-Wairarapa District Health Board,wairarapa.dhb.org.nz,No,District Health Board
-Wairoa District Council ,wairoadc.govt.nz,No,District Council
-Waitaki District Council,waitaki.govt.nz,No,District Council
-Waitomo District Council ,waitomo.govt.nz,No,District Council
-Wanganui District Council,wanganui.govt.nz,No,District Council
-Wellington City Council,tfw.govt.nz,No,City Council
-Wellington City Council,wcl.govt.nz,No,City Council
-Wellington City Council,wellington2040.govt.nz,No,City Council
-Wellington City Council,wellington.govt.nz,No,City Council
-Wellington City Council,wgtn2040.govt.nz,No,City Council
-Wellington City Council,wgtnregionwasteplan.govt.nz,No,City Council
-Wellington City Council,wcc.govt.nz,Yes,City Council
-Wellington City Council,wellingtoncitycouncil.govt.nz,Yes,City Council
-Wellington City Council,wellingtoncity.govt.nz,Yes,City Council
-West Coast District Health Board,westcoastdhb.org.nz,No,District Health Board
-West Coast District Health Board,wcdhb.govt.nz,Yes,District Health Board
-West Coast Regional Council,wcrc.govt.nz,No,Regional Council
-West Coast Regional Council,westcoastemergency.govt.nz,No,Regional Council
-Western Bay Of Plenty District Council ,westernbay.govt.nz,No,District Council
-Westland District Council,westlanddc.govt.nz,No,District Council
-Westland District Council,westland.govt.nz,Yes,District Council
-Whakatane District Council ,whakatane.govt.nz,No,District Council
-Whanganui District Health Board,wdhb.org.nz,No,District Health Board
-Whangarei District Council ,wdc.govt.nz,No,District Council
-Whangarei District Council ,whangarei.govt.nz,Yes,District Council
-Worksafe New Zealand ,hazardoussubstances.govt.nz,No,Crown Entity - Crown Agent
-Worksafe New Zealand ,worksafe.govt.nz,No,Crown Entity - Crown Agent
+Waimate District Council,waimatedc.govt.nz,Yes,District Council
+Waipa District Council,waipadc.govt.nz,No,Non-Public Service department
+Wairarapa District Health Board,wairarapa.dhb.org.nz,No,Independent Crown Entity
+Wairoa District Council ,wairoadc.govt.nz,No,Public Service department
+Waitaki District Council,waitaki.govt.nz,No,Public Service department
+Waitomo District Council ,waitomo.govt.nz,No,Public Service department
+Wanganui District Council,wanganui.govt.nz,Yes,Public Service department
+Wellington City Council,tfw.govt.nz,No,Public Service department
+Wellington City Council,wcc.govt.nz,Yes,Non-Public Service department
+Wellington City Council,wcl.govt.nz,No,Public Service department
+Wellington City Council,wellington.govt.nz,No,Public Service department
+Wellington City Council,wellington2040.govt.nz,No,Crown Entity - Crown Agent
+Wellington City Council,wellingtoncity.govt.nz,No,Crown Entity - Crown Agent
+Wellington City Council,wellingtoncitycouncil.govt.nz,No,District Health Board
+Wellington City Council,wgtn2040.govt.nz,Yes,Regional Council
+Wellington City Council,wgtnregionwasteplan.govt.nz,No,Public Service department
+West Coast District Health Board,wcdhb.govt.nz,No,Public Service department
+West Coast District Health Board,westcoastdhb.org.nz,No,City Council
+West Coast Regional Council,wcrc.govt.nz,No,Crown Entity - Crown Agent
+West Coast Regional Council,westcoastemergency.govt.nz,No,Public Service department
+Western Bay Of Plenty District Council ,westernbay.govt.nz,No,Non-Public Service department
+Westland District Council,westland.govt.nz,No,District Council
+Westland District Council,westlanddc.govt.nz,No,Independent Crown Entity
+Whakatane District Council ,whakatane.govt.nz,No,Public Service department
+Whanganui District Health Board,wdhb.org.nz,No,Public Service department
+Whangarei District Council ,wdc.govt.nz,No,Public Service department
+Whangarei District Council ,whangarei.govt.nz,Yes,Public Service department
+Worksafe New Zealand ,hazardoussubstances.govt.nz,No,Public Service department
+Worksafe New Zealand ,worksafe.govt.nz,No,Public Service department
