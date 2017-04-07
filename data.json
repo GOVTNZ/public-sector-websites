@@ -10,7 +10,7 @@
 			"landingPage": "https://github.com/GOVTNZ/public-sector-websites",
 			"identifier": "https://github.com/GOVTNZ/public-sector-websites",
 			"issued": "2011-08-26",
-			"modified": "2017-03-15",
+			"modified": "2017-04-05",
 			"description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
 			"keyword": ["public sector", "websites", "open government", "web standards", "public sector websites", "url", "website", "web site"],
 			"theme": "State sector performance",
@@ -49,13 +49,13 @@
         {
           "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2017-03-15/public-sector-domains.csv",
           "title": "Snapshot at 15 March 2017",
-          "description": "Note: this year now includes local and regional council websites and whether a domain is redirecting to another website.",
+          "description": "Note: this year now includes local and regional council websites, and whether a domain is redirecting to another website.",
           "format": "csv"
         },
 	{
           "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
           "title": "Latest dataset updates",
-          "description": "This give access to the running updates on the public sector websites dataset",
+          "description": "This gives access to the ongoing updates on the public sector websites dataset",
           "format": "csv"
         }				
       ]
