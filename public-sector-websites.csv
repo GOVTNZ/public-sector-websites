@@ -707,7 +707,21 @@ Parliamentary Service ,pce.parliament.nz,No,Crown Entity - Crown Agent
 Parliamentary Service ,primeminister.govt.nz,No,Statutory Body
 Parliamentary Service ,secure.parliament.nz,No,Independent Crown Entity
 Parliamentary Service ,www.parliament.nz,No,District Health Board
-Pharmaceutical Management Agency Ltd ,pharmac.govt.nz,No,Independent Crown Entity
+Pharmaceutical Management Agency (PHARMAC),pharmac.govt.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),pharmac.health.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),pharmac.co.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),pharmac.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),healthsector.pharmac.health.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),careers.pharmac.govt.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),spacetobreathe.co.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),spacetobreathe.org.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),schedule.co.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),schedule.net.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),schedule.org.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),oneheart.co.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),bcpice.pharmac.govt.nz,No,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),bcpice.co.nz,Yes,Crown Entity - Crown Agent
+Pharmaceutical Management Agency (PHARMAC),in-tendhost.co.uk/pharmac/aspx/Home,No,Crown Entity - Crown Agent
 Porirua City Council,pcc.govt.nz,No,District Council
 Privacy Commissioner,privacy.org.nz,No,District Council
 Public Trust,publictrust.co.nz,No,District Council
