@@ -333,22 +333,22 @@ Meridian Energy Limited,meridianenergy.co.nz,No,Crown Entity - Crown Agent
 MidCentral District Health Board,midcentraldhb.govt.nz,Yes,City Council
 Midwifery Council of New Zealand,midwiferycouncil.health.nz,No,Crown Entity - Crown Agent
 Mighty River Power Limited,mightyriver.co.nz,No,Crown Entity - Crown Agent
-Ministry for Culture and Heritage,28maoribattalion.org.nz,No,Independent Crown Entity
-Ministry for Culture and Heritage,anzac.govt.nz,No,Crown Entity - Crown Agent
-Ministry for Culture and Heritage,dnzb.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,firstworldwar.govt.nz,No,Non-Public Service department
-Ministry for Culture and Heritage,goingdigital.co.nz,No,District Council
-Ministry for Culture and Heritage,heritageequip.govt.nz,No,District Council
-Ministry for Culture and Heritage,mch.govt.nz,No,City Council
+Ministry for Culture and Heritage,28maoribattalion.org.nz,No,Public service department
+Ministry for Culture and Heritage,anzac.govt.nz,No,Public service department
+Ministry for Culture and Heritage,dnzb.govt.nz,Yes,Public Service department
+Ministry for Culture and Heritage,firstworldwar.govt.nz,Yes,Public service department
+Ministry for Culture and Heritage,goingdigital.co.nz,Yes,Public service department
+Ministry for Culture and Heritage,heritageequip.govt.nz,Yes,Public service department
+Ministry for Culture and Heritage,mch.govt.nz,No,Public service department
 Ministry for Culture and Heritage,ngatapuwae.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,nzhistory.govt.nz,No,Autonomous Crown Entity
-Ministry for Culture and Heritage,protected-objects.govt.nz,No,City Council
+Ministry for Culture and Heritage,nzhistory.govt.nz,No,Public service department
+Ministry for Culture and Heritage,protected-objects.govt.nz,Yes,Public service department
 Ministry for Culture and Heritage,quakestories.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,teara.govt.nz,Yes,Public Service department
+Ministry for Culture and Heritage,teara.govt.nz,No,Public Service department
 Ministry for Culture and Heritage,tiritiowaitangi.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,treatyofwaitangi.govt.nz,No,Public Service department
+Ministry for Culture and Heritage,treatyofwaitangi.govt.nz,Yes,Public Service department
 Ministry for Culture and Heritage,vietnamwar.govt.nz,No,Public Service department
-Ministry for Culture and Heritage,ww100.govt.nz,Yes,Crown Entity - Crown Agent
+Ministry for Culture and Heritage,ww100.govt.nz,Yes,Public service department
 Ministry for Pacific Peoples ,mpia.govt.nz,No,Public Service department
 Ministry for Pacific Peoples ,mpp.govt.nz,Yes,Public Service department
 Ministry for Primary Industries,aquaculture.govt.nz,No,Public Service department
