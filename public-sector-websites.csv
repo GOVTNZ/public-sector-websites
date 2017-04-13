@@ -75,7 +75,6 @@ Clutha District Council ,cluthadc.govt.nz,No,Public Service department
 Commerce Commission,comcom.govt.nz,No,Public Service department
 Commission for Financial Literacy and Retirement Income,retirement.govt.nz,Yes,Public Service department
 Commission for Financial Literacy and Retirement Income,sorted.org.nz,No,Crown Entity - Crown Agent
-Controller and Auditor-General,auditor-general.parliament.nz,No,Non-Public Service department
 Creative New Zealand ,creativenz.govt.nz,No,Non-Public Service department
 Crown Fibre Holdings Limited,cfh.govt.nz,Yes,Public Service department
 Crown Fibre Holdings Limited,crownfibre.govt.nz,No,Crown Entity - Crown Agent
@@ -689,8 +688,10 @@ NZ on Air,nzonair.govt.nz,No,Crown Entity - Crown Agent
 Office of Film and Literature Classification,censor.org.nz,No,Public Service department
 Office of Film and Literature Classification,censorship.govt.nz,Yes,Public Service department
 Office of Film and Literature Classification,classificationoffice.govt.nz,Yes,Public Service department
-Office of the Auditor General,auditnz.govt.nz,No,Autonomous Crown Entity
-Office of the Auditor General,oag.govt.nz,No,Public Service department
+Office of the Auditor-General,auditnz.govt.nz,No,Autonomous Crown Entity
+Office of the Auditor-General,auditor-general.parliament.nz,No,Public Service department
+Office of the Auditor-General,blog.oag.govt.nz,No,Public Service department
+Office of the Auditor-General,oag.govt.nz,No,Public Service department
 Office of the Ombudsman ,ombudsman.govt.nz,No,Crown Entity - Crown Agent
 Office of the Ombudsman ,ombudsman.parliament.nz,No,Public Service department
 Office of the Ombudsman ,ombudsmen.govt.nz,No,Public Service department
