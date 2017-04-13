@@ -759,9 +759,12 @@ Southland Regional Council,es.govt.nz,No,Public Service department
 Sport New Zealand,sportnz.org.nz,No,District Council
 Sports Tribunal of New Zealand,sportstribunal.org.nz,No,Public Service department
 Standards New Zealand,standards.co.nz,No,Autonomous Crown Entity
-Statistics New Zealand,census.govt.nz,No,District Health Board
-Statistics New Zealand,innovation.stats.govt.nz,Yes,Crown Entity - Crown Agent
-Statistics New Zealand,stats.govt.nz,No,Crown Entity - Crown Agent
+Statistics New Zealand,census.govt.nz,No,Public Service department
+Statistics New Zealand,datafinder.stats.govt.nz,No,Public Service department
+Statistics New Zealand,datainfoplus.stats.govt.nz,No,Public Service department
+Statistics New Zealand,innovation.stats.govt.nz,No,Public Service department
+Statistics New Zealand,nzdotstat.stats.govt.nz,No,Public Service department
+Statistics New Zealand,stats.govt.nz,No,Public Service department
 Stratford District Council,stratford.govt.nz,Yes,Crown Entity - Crown Agent
 Stratford District Council,stratfordlibrary.govt.nz,Yes,Public Service department
 Tairawhiti District Health,tairawhitidhb.health.nz,No,Crown Entity - Crown Agent
