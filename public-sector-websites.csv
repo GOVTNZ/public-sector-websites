@@ -549,35 +549,30 @@ Ministry of Justice,waitangi-tribunal.govt.nz,Yes,Public Service department
 Ministry of Justice,waitangitribunal.govt.nz,No,Public Service department
 Ministry of Justice,youthcourt.govt.nz,Yes,Public Service department
 Ministry of Social Development,areyouok.org.nz,No,Public Service department
-Ministry of Social Development,childrensactionplan.govt.nz,Yes,Public Service department
 Ministry of Social Development,contractmapping.govt.nz,No,Public Service department
-Ministry of Social Development,cyf.govt.nz,Yes,Public Service department
 Ministry of Social Development,hcn.govt.nz,No,Public Service department
 Ministry of Social Development,heartlandservices.govt.nz,No,Public Service department
-Ministry of Social Development,msd.govt.nz,Yes,Public Service department
+Ministry of Social Development,msd.govt.nz,No,Public Service department
 Ministry of Social Development,myd.govt.nz,No,Public Service department
 Ministry of Social Development,odi.govt.nz,No,Public Service department
-Ministry of Social Development,osc.govt.nz,Yes,Public Service department
+Ministry of Social Development,osc.govt.nz,No,Public Service department
 Ministry of Social Development,quakeaccommodation.govt.nz,No,Public Service department
 Ministry of Social Development,seniorcitizens.govt.nz,Yes,Public Service department
 Ministry of Social Development,sia.govt.nz,No,Public Service department
 Ministry of Social Development,siu.govt.nz,No,Public Service department
 Ministry of Social Development,socialhousing.govt.nz,No,Public Service department
-Ministry of Social Development,socialpolicy.govt.nz,No,Public Service department
-Ministry of Social Development,spear.govt.nz,Yes,Public Service department
 Ministry of Social Development,strengtheningfamilies.govt.nz,No,Public Service department
-Ministry of Social Development,studylink.govt.nz,Yes,Public Service department
-Ministry of Social Development,supergold.govt.nz,Yes,Public Service department
+Ministry of Social Development,studylink.govt.nz,No,Public Service department
+Ministry of Social Development,supergold.govt.nz,No,Public Service department
 Ministry of Social Development,thinkdifferently.org.nz,Yes,Public Service department
-Ministry of Social Development,viki.govt.nz,No,Public Service department
 Ministry of Social Development,wff.govt.nz,Yes,Public Service department
 Ministry of Social Development,winz.govt.nz,Yes,Public Service department
 Ministry of Social Development,workandincome.govt.nz,No,Public Service department
-Ministry of Social Development,workingforfamilies.govt.nz,Yes,Public Service department
+Ministry of Social Development,workingforfamilies.govt.nz,No,Public Service department
 Ministry of Social Development,youthaffairs.govt.nz,No,Public Service department
-Ministry of Social Development,youthdevelopment.govt.nz,Yes,Public Service department
-Ministry of Social Development,youthparliament.govt.nz,No,Public Service department
-Ministry of Social Development,youthservice.govt.nz,Yes,Public Service department
+Ministry of Social Development,youthdevelopment.govt.nz,No,Public Service department
+Ministry of Social Development,youthparliament.govt.nz,Yes,Public Service department
+Ministry of Social Development,youthservice.govt.nz,No,Public Service department
 Ministry of Social Development,youthvoices.govt.nz,No,Public Service department
 Ministry of Transport,adventuresmart.org.nz,No,Public Service department
 Ministry of Transport,maliat.govt.nz,Yes,Public Service department
@@ -708,6 +703,10 @@ Office of the Ombudsman ,ombudsman.govt.nz,No,Offices of Parliament
 Office of the Ombudsman ,ombudsman.parliament.nz,No,Offices of Parliament
 Office of the Ombudsman ,ombudsmen.govt.nz,No,Offices of Parliament
 Office of the Ombudsman ,ombudsmen.parliament.nz,No,Offices of Parliament
+Oranga Tamariki (Ministry of Children),orangatamariki.govt.nz,No,Public Service department
+Oranga Tamariki (Ministry of Children),childrensactionplan.govt.nz,Yes,Public Service department
+Oranga Tamariki (Ministry of Children),cyf.govt.nz,Yes,Public Service department
+Oranga Tamariki (Ministry of Children),viki.govt.nz,No,Public Service department
 Otago Museum,otagomuseum.govt.nz,No,Other
 Otago Regional Council ,otagocdem.govt.nz,No,Regional Council
 Otorohanga District Council ,otodc.govt.nz,No,District Council
